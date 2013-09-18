@@ -1,0 +1,1198 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProfileBuilder\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-01-04 11:35+0200\n"
+"PO-Revision-Date: 2012-01-04 11:36+0200\n"
+"Last-Translator: Gabriel Barina <barinagabriel2007@yahoo.com>\n"
+"Language-Team: Reflection Media, Gabriel Barina\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\Users\\Gabi\\Desktop\\test\\profile-builder-pro\n"
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:25
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:28
+msgid "Profile Builder"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:26
+msgid "Welcome to Profile Builder!"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:28
+msgid " lets you customize your website by adding a front-end menu for all your users, giving them a more flexible way to modify their user-information or to register new users."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:29
+msgid "Also, grants users with administrator rights to customize basic fields or to add new ones."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:30
+msgid "To achieve this, just create a new page, and give it an intuitive name(e.g. Edit Profile)."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:31
+msgid "Now all you need to do is add the following shortcode(for the previous example): "
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:32
+msgid "Publish your page and you are ready to go!"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:33
+msgid "You can use the following shortcodes:"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:34
+msgid "for a log-in form."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:35
+msgid "to add a registration form."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:36
+msgid "to grant users a front-end acces to their personal information(requires user to be logged in)."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:37
+msgid "to add a password recovery form."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:39
+msgid "Users with administrator rights have access to the following features:"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:40
+msgid "add a custom stylesheet/inherit values from the current theme or use one of the following built into this plugin: default, white or black."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:41
+msgid "select whether to display or not the admin bar in the front end for a specific user-group registered to the site."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:42
+msgid "select which information-field can users see/modify. The hidden fields' values remain unmodified."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:43
+msgid "add custom fields to the existing ones, with several types to choose from: heading, text, textarea, select, checkbox, radio, and/or upload."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:44
+msgid "add an avatar field."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:45
+msgid "create custom redirects."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:46
+msgid "front-end userlisting using the"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:46
+msgid "shortcode."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:49
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:84
+msgid "NOTE:"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:50
+msgid "this plugin only adds/removes fields in the front-end."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:51
+msgid "The default information-fields will still be visible(and thus modifiable)"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:52
+msgid "from the back-end, while custom fields will only be visible in the front-end."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:66
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:67
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/options.php:58
+msgid "Plugin Layout"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:68
+msgid "Stylesheet used:"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:70
+msgid "Default"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:75
+msgid "White"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:76
+msgid "Black"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:80
+msgid "None"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:84
+msgid "The black stylesheet is intended for sites/blogs with a dark background."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:84
+msgid "The white stylesheet is intended for a sites/blogs with a light background color."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:89
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:133
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:344
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:248
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:38
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:114
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:268
+msgid "Save Changes"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:107
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:108
+msgid "Show/Hide the Admin Bar on Front End"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:112
+msgid "User-group"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:113
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:157
+msgid "Visibility"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:122
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:172
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:185
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:198
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:211
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:224
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:243
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:256
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:272
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:285
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:298
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:317
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:331
+msgid "Show"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:123
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:173
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:186
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:199
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:212
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:225
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:244
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:257
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:273
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:286
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:299
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:318
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:332
+msgid "Hide"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:151
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:152
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/options.php:60
+msgid "Default Profile Fields"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:156
+msgid "Input Field Name"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:158
+msgid "Required"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:163
+msgid "Name:"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:169
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:699
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.login.php:117
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:498
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:667
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.functions.php:114
+msgid "Username"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:176
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:189
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:202
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:215
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:228
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:247
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:260
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:276
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:289
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:302
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:321
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:335
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:170
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:178
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:188
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:217
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:229
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:241
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:253
+msgid "Yes"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:177
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:190
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:203
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:216
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:229
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:248
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:261
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:277
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:290
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:303
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:322
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:336
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:171
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:179
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:189
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:218
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:230
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:242
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:254
+msgid "No"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:182
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:719
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:691
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.functions.php:131
+msgid "First Name"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:195
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:739
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:715
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.functions.php:148
+msgid "Last Name"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:208
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:759
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:739
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.functions.php:165
+msgid "Nickname"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:221
+msgid "Display name publicly as..."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:234
+msgid "Contact Info:"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:240
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:829
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:499
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:766
+msgid "E-mail"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:253
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:848
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:790
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.functions.php:208
+msgid "Website"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:269
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:866
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:814
+msgid "AIM"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:282
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:884
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:838
+msgid "Yahoo IM"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:295
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:902
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:862
+msgid "Jabber / Google Talk"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:308
+msgid "About Yourself:"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:314
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:923
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:889
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.functions.php:236
+msgid "Biographical Info"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/menu.file.php:328
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:933
+msgid "New Password"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/options.php:57
+msgid "Basic Information"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/options.php:59
+msgid "Show/Hide the Admin Bar on Front-end"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/options.php:66
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:6
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:7
+msgid "Extra Profile Fields"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/options.php:69
+msgid "Addons"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/options.php:72
+msgid "Register Your Version"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:85
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:45
+msgid "The information size you were trying to submit was larger than"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:86
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:46
+msgid "This is usually caused by a large file(s) trying to be uploaded."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:87
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:47
+msgid "Since it was also larger than"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:87
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:47
+msgid "no additional information is available."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:559
+msgid "You must be logged in to edit your profile."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:569
+msgid "The avatar was successfully deleted."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:576
+msgid "The attachment"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:576
+msgid "was successfully deleted."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:591
+msgid "The changes have been successfully saved."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:598
+msgid "The email address you entered is already registered to a different user."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:598
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:608
+msgid "The email address was"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:598
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:608
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:618
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:627
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:653
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:661
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:676
+msgid "NOT"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:598
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:608
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:618
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:627
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:653
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:661
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:676
+msgid "updated along with the rest of the information."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:608
+msgid "The email address you entered is invalid."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:618
+msgid "The passwords you entered do not match."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:618
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:627
+msgid "The password was"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:627
+msgid "You didn't complete both password fields."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:634
+msgid "Your profile was NOT updated!"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:643
+msgid "There was an error while trying to upload the following attachments:"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:653
+msgid "Possible cause: the size was bigger than"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:653
+msgid "The listed attachements were"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:661
+msgid "There was an error while trying to upload your avatar picture."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:661
+msgid "Possible cause: size/incorrect file-type."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:661
+msgid "The avatar was"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:669
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:338
+msgid "There was an error while trying to upload the following attachment(s)"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:676
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:345
+msgid "Only files with the following extension(s) can be uploaded:"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:676
+msgid "This file was"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:693
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:647
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.functions.php:101
+msgid "Name"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:700
+msgid "Usernames cannot be changed."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:780
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.functions.php:182
+msgid "Display name publicly as"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:812
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:745
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.functions.php:196
+msgid "Contact Info"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:831
+msgid "(required)"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:908
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:868
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.functions.php:222
+msgid "About Yourself"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:938
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.recover.password.php:281
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.recover.password.php:312
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:923
+msgid "Repeat Password"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.edit.profile.php:969
+msgid "Update"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.login.php:53
+msgid "You are currently logged in as"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.login.php:54
+msgid "Log out of this account"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.login.php:54
+msgid "Log out"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.login.php:72
+msgid "You have successfully logged in as"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.login.php:99
+msgid "You will soon be redirected automatically. If you see this page for more than 1 second, please click"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.login.php:99
+msgid "here"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.login.php:107
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.recover.password.php:327
+msgid "ERROR:"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.login.php:107
+msgid "The username field is empty"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.login.php:127
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.recover.password.php:276
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.recover.password.php:307
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:918
+msgid "Password"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.login.php:131
+msgid "Log in"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.login.php:135
+msgid "Remember me"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.login.php:145
+msgid "Lost password?"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.recover.password.php:108
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.recover.password.php:153
+msgid "A password reset email has been sent to "
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.recover.password.php:108
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.recover.password.php:153
+msgid "Following the link sent in the email address will reset the password."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.recover.password.php:120
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.recover.password.php:165
+msgid "Someone requested that the password be reset for the following account: "
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.recover.password.php:122
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.recover.password.php:167
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.recover.password.php:123
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.recover.password.php:168
+msgid "To reset your password, visit the following link:"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.recover.password.php:127
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.recover.password.php:172
+msgid "Password Reset Feature from"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.recover.password.php:136
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.recover.password.php:181
+msgid "ERROR"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.recover.password.php:136
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.recover.password.php:181
+msgid "There was an error while trying to send the activation link to "
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.recover.password.php:146
+msgid "The email address entered wasn't found in the database!"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.recover.password.php:146
+msgid "Please check that you entered the correct email address."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.recover.password.php:188
+msgid "The username entered wasn't found in the database!"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.recover.password.php:188
+msgid "Please check that you entered the correct username."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.recover.password.php:199
+msgid "Your password has been successfully changed!"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.recover.password.php:210
+msgid "You have successfully reset your password,"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.recover.password.php:214
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.recover.password.php:228
+msgid "Password Successfully Reset for"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.recover.password.php:214
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.recover.password.php:228
+msgid "from"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.recover.password.php:224
+msgid "has requested a password change via the password reset feature."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.recover.password.php:225
+msgid "His/her new password is:"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.recover.password.php:243
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:335
+msgid "The entered passwords don't match!"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.recover.password.php:288
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.recover.password.php:319
+msgid "Reset Password"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.recover.password.php:327
+msgid "Invalid key!"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.recover.password.php:341
+msgid "Please enter your username or email address."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.recover.password.php:341
+msgid "You will receive a link to create a new password via email."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.recover.password.php:350
+msgid "Username or E-mail"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.recover.password.php:359
+msgid "Get New Password"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:48
+msgid "The user was NOT created!"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:324
+msgid "A username is required for registration."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:326
+msgid "Sorry, that username already exists!"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:328
+msgid "You must enter a valid email address."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:330
+msgid "Sorry, that email address is already used!"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:333
+msgid "You didn't complete one of the password-fields!"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:345
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:351
+msgid "The account was NOT created!"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:349
+msgid "You must agree to the terms and conditions before registering!"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:351
+msgid "(Several required fields were left uncompleted)"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:497
+msgid "New subscriber on"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:502
+msgid "A new subscriber has (been) registered!"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:546
+msgid "You are logged in as"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:546
+msgid "You don't need another account."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:546
+msgid "Log out of this account."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:546
+msgid "Logout"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:553
+msgid "A user account has been created for"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:578
+msgid "Thank you for registering"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:605
+msgid "An error occured while trying to send the notification email."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:609
+msgid "An email containing the username and password was successfully sent."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:624
+msgid "Users can register themselves or you can manually create users here."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:629
+msgid "Users cannot currently register themselves, but you can manually create users here."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:634
+msgid "Only an administrator can add new users."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:954
+msgid "Send these credentials via email."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:966
+msgid "Add User"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/front-end/wppb.register.php:966
+msgid "Register"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:8
+msgid "You can create as many extra fields as your project requires. To break your custom fields into sections (on the front-end), add a \""
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:8
+msgid "heading"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:8
+msgid "\" custom field."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:9
+msgid "All of the fields can be sorted and rearranged to your liking with "
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:9
+msgid "Drag"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:9
+msgid "Drop"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:9
+msgid ". Don't worry about the order in which you create your custom fields, you can always reorder them."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:13
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:23
+msgid "Title"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:14
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:24
+msgid "Type"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:15
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:25
+msgid "Meta-Key"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:16
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:26
+msgid "ID"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:17
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:27
+msgid "Req'd"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:18
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:28
+msgid "Add Option"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:40
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:73
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:206
+msgid "Edit"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:41
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:74
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:207
+msgid "Delete"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:101
+msgid "Title:"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:101
+msgid "The title of the item."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:111
+msgid "Meta-Key:"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:111
+msgid "Use this in conjuction with WordPress functions to display the value in the page of your choosing. Auto-completed but editable - in this case it must be uniqe.<br/>Changing this might take long in case of a very big user-count."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:144
+msgid "Option Type:"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:144
+msgid "Choose one of the supported option types."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:154
+msgid "Description:"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:154
+msgid "Enter a detailed description of the option for end users to read(optional)."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:155
+msgid "You can only insert links using standard HTML syntax:"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:155
+msgid "address"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:155
+msgid "name"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:165
+msgid "Options:"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:165
+msgid "Enter a comma separated list of options. For example, you could have \"One,Two,Three\" or just a single value like \"Yes\" for a checkbox."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:176
+msgid "ID:"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:176
+msgid "This is the internal ID for this input. You can use this in conjuction with filters to target this element if needed.<br/>Can't be edited."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:187
+msgid "Required:"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:187
+msgid "Check this box to make this field required."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:194
+msgid "Cancel"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:195
+msgid "Save"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:229
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:230
+msgid "Register your version of Profile Builder Pro"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:231
+msgid "Now that you acquired a copy of Profile Builder Pro, you should take the time and register it with the serial number you received in the e-mail."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:232
+msgid "If you register this version of Profile Builder, you'll receive information regarding eventual upgrades, patches, and - if needed - technical support."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:233
+msgid "Serial Number:"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:238
+msgid "The serial number couldn't be validated or isn't valid!"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:240
+msgid "The serial number was successfully validated!"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/premium.php:243
+msgid "(e.g. RMPB-15-SN-253a55baa4fbe7bf595b2aabb8d72985)"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.functions.php:526
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.functions.php:529
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:543
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:546
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:575
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:596
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:598
+msgid "Current file"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.functions.php:526
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:543
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:575
+msgid "No uploaded attachment"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.functions.php:529
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.functions.php:601
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:546
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:596
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:598
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:667
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:699
+msgid "Click to see the current attachment"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.functions.php:599
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:665
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:696
+msgid "Avatar"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.functions.php:656
+msgid "Users listed by:"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.functions.php:673
+msgid "Displaying"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.functions.php:688
+msgid "users/page"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.functions.php:691
+msgid "Reorder"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.functions.php:708
+msgid "Click here to see more information about this user."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:9
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:10
+msgid "Activate/Deactivate Addons"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:14
+msgid "Name/Description"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:15
+msgid "Status"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:20
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:62
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:63
+msgid "User-Listing"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:22
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:29
+msgid "Active"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:23
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:30
+msgid "Inactive"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:27
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:151
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:152
+msgid "Custom Redirects"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:65
+msgid "To create a page containing the users registered to this current site/blog, insert the following shortcode in a (blank) page: "
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:67
+msgid "Please select the default user-listing (can be temporarily overwritten in the front-end):"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:72
+msgid "Sorting Criteria: "
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:84
+msgid "Sorting Order: "
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:93
+msgid "Users/Page: "
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:162
+msgid "Action"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:163
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:208
+msgid "Redirect"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:164
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:209
+msgid "URL"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:168
+msgid "After Registration:"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:176
+msgid "After Login:"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:196
+msgid "When activated this feature will redirect the user on both the default Wordpress password recovery page and the \"Lost password?\" link used by Profile Builder on the front-end login page."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:207
+msgid "Requested WP Page"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:261
+msgid "Before login. Works best if used in conjuction with \"After logout\"."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:262
+msgid "After logout. Works best if used in conjuction with \"Before logout\"."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/addon/addon.php:263
+msgid "Redirects every user-role EXCEPT the ones with administrator privilages (can manage options)."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:43
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:132
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:198
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:263
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:328
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:394
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:448
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:496
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:558
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:679
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:738
+msgid "This field is marked as required by the administrator."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:46
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:135
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:201
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:266
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:331
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:397
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:451
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:499
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:561
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:682
+msgid "This field wasn't updated because you entered and empty string (It was marked as required by the administrator)"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:540
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:571
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:658
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:688
+msgid "max upload size"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:546
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:598
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:667
+msgid "Click to delete the current attachment"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:661
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:692
+msgid "Current avatar"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:661
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:692
+msgid "No uploaded avatar"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:699
+msgid "The avatar image can't be deleted (It was marked as required by the administrator)."
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:716
+msgid "Click to see the current avatar"
+msgstr ""
+
+#: C:\Users\Gabi\Desktop\test\profile-builder-pro/premium/functions/extra.fields.php:716
+msgid "Click to delete the avatar"
+msgstr ""
+

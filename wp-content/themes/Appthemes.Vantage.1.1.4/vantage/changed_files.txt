@@ -1,0 +1,16 @@
+M	changelog.txt
+M	claim-listing.php
+M	form-review-reply.php
+M	form-review.php
+M	functions.php
+M	header.php
+M	includes/admin/listing-single.php
+M	includes/admin/settings.php
+M	includes/core.php
+M	includes/template-tags.php
+M	purchase-listing-existing.php
+M	purchase-listing.php
+M	scripts/listing-edit.js
+M	scripts/scripts.js
+M	style.css
+A	scripts/jquery.tinynav.js

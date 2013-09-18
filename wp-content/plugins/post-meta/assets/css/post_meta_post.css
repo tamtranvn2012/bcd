@@ -1,0 +1,220 @@
+/*common */
+.pm_group{
+    border: 1px solid #DFDFDF;
+    background-color: #F1F1F1;
+    background-image: -ms-linear-gradient(top,#F9F9F9,#ECECEC);
+    background-image: -moz-linear-gradient(top,#F9F9F9,#ECECEC);
+    background-image: -o-linear-gradient(top,#F9F9F9,#ECECEC);
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#F9F9F9),to(#ECECEC));
+    background-image: -webkit-linear-gradient(top,#F9F9F9,#ECECEC);
+    background-image: linear-gradient(top,#F9F9F9,#ECECEC);
+}
+.pm_note{
+    font-style: italic;
+    font-size: 10px;
+}
+
+.pm_field{
+    /*border-top: 1px solid #EAEAEA;*/ 
+    padding: 10px;
+}
+.pm_field:hover { background: #F0F7FD; }
+
+.pm_field label { 
+    font-weight:bold; 
+    margin-bottom: 8px; 
+    margin-top: 0; 
+    font-size:12px; 
+    }
+
+/* input and textarea  */
+
+.pm_field input[type=text]{ 
+    clear:both;
+    width: 50%; 
+    display:block;
+    outline:none; 
+    background:#FFF;
+    }
+.pm_field textarea { 
+    clear:both;
+    width: 100%; 
+    display:block;
+    outline:none; 
+    background:#FFF;
+    }
+
+.pm_field_item table.mceLayout {
+    background: #fff;
+}
+
+.pm_field_item textarea {
+    /*height: 320px;*/
+}
+
+.pm_field_item .wp_themeSkin .mceStatusbar a.mceResize {
+    top: -2px !important;
+}
+
+
+/* Checkbox */
+
+.pm_field_item{
+    padding: 10px 0;
+    
+}
+
+/* Select */
+
+.pm_field select{
+    min-width: 200px;
+}
+
+.pm_field .pm_field_item select{
+    height: auto !important;
+}
+
+/* validation */
+
+.pm_field_item label {
+margin-left: 4px;
+margin-top: 2px;
+overflow: hidden;
+zoom: 100%;
+color: red;
+padding: 0px 6px 0px 24px;
+line-height: 20px;
+font-size: 10px;
+height: auto;
+display: block;
+background: #FFC url(../images/error-magicfields.png) no-repeat 4px 1px;
+float: left;
+border: 1px solid #DCCD4D;
+}
+
+.pm_field label em{
+    font-style: normal;
+    color: #666;
+    font-weight: normal;
+}
+
+#mo-publish-errors {
+  float: none;
+  margin-left: 0;
+  margin-top: 6px;
+  line-height: 14px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 28px;
+  background-position: 6px 4px; 
+}
+#mo-publish-errors {
+  margin-left: 4px;
+  margin-top: 2px;
+  overflow: hidden;
+  zoom: 100%;
+  color: red;
+  padding: 0px 6px 0px 24px;
+  line-height: 20px;
+  font-size: 10px;
+  height: auto;
+  display: block;
+  background: #FFFFCC url(../images/error.png) no-repeat 4px 1px;
+  border: 1px solid #DCCD4D;
+}
+
+
+
+/* Message  */
+
+
+.pm_ajax{
+    
+    width: 100%;
+    
+}
+
+.pm_ajax .pm_success{
+    color: #4F8A10;
+    background-color: #DFF2BF;
+    
+}
+
+/* file */
+
+.file_wrapper{
+    display: inline-block;
+}
+.file_preview{
+    float: left;
+    position: relative;
+}
+.file_preview_thum{
+    background: white;
+    text-align: center;
+    padding: 4px;
+    border: 1px groove;
+    line-height: 0px;
+}
+.file_thum_manage{
+    padding: 5px;
+    text-align: right;    
+}
+.file_thum_manage .delete{
+    color: red;
+    text-decoration: none;
+}
+.file_thum_manage .dl{
+    color: green;
+    text-decoration: none;
+    padding: 0 3px;
+}
+.file_input{
+    padding: 0 20px;
+    float: left;
+}
+/* field control */
+
+.pm-field-control{
+    padding:5px 5px 5px 10px;
+    background: #F3F3F3;
+    border-top: 1px solid #EAEAEA;
+    border-bottom: 1px solid #EAEAEA;
+}
+.pm-group-control{
+    padding:5px 5px 5px 10px;
+    background: #D9FCB4;
+    border-top: 1px solid #EAEAEA;
+    border-bottom: 1px solid #EAEAEA;
+    text-align: right;
+    padding-right: 15px;
+}
+.group_count_label{
+    background: #929EF3;
+    padding: 0 5px;
+    vertical-align: middle;
+}
+.pm-field-control:hover,.pm-group-control:hover{
+    background-color: #FAFAFA;
+    border-top-color: #F2F2F2; 
+}
+.pm-field-control .hndle{
+    background: url('../images/handle.png') no-repeat;
+    padding: 0 10px;    
+}
+
+.duplicate-add,.duplicate-add-group{
+    background: url('../images/add_duplicate.png') no-repeat;
+    color: #008000;
+}
+.duplicate-remove,.duplicate-remove-group{
+    background: url('../images/remove_duplicate.png') no-repeat;
+    color:red;
+}
+
+.duplicate-add, .duplicate-remove ,.duplicate-add-group, .duplicate-remove-group{
+    padding: 0 0 0 20px;
+    margin-left: 10px;
+    text-decoration: none;
+    font-size: 10px;
+}

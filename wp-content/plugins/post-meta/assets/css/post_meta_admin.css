@@ -1,0 +1,172 @@
+
+#pm-icon-edit-pages{
+    background: transparent url(../images/icon32.png) no-repeat;
+    
+}
+.pm_segment{
+    display: inline-block;
+    width: 20%;
+    padding-bottom: 20px;
+    vertical-align: top;
+}
+.group_control{
+    padding-top: 20px;
+}
+.pm_field_segment{
+    display: inline-block;
+    padding: 0 3px 10px;
+    width: 31%;
+    vertical-align: top;
+}
+.field-holder{
+    background: #F0F7FD;
+}
+.pm_label {
+    display: block;
+    font-weight: bold;
+    padding: 5px;
+}
+.pm_note{
+    font-style: italic;
+    font-size: 10px;
+}
+.pm_required{
+    color: red;
+}
+.pm_input{
+    width: 165px;
+}
+.meta_option_field_selecor {
+    display: inline-block;
+    margin: 2px !important;
+    padding: 8px;
+    text-align: center;
+    width: 115px;
+}
+.metabox-option-list{
+    overflow: hidden;
+}
+.metabox-fields-holder{
+    float: left;
+    width: 64%;
+}
+.meta-option-fields-list{
+    float: right;
+    width: 35%;
+}
+
+.pm_loading{
+    background: url('jquery/loading.gif') no-repeat center center;
+    padding: 10px;
+}
+.pm_trash {
+    float: right;
+    background: url('../images/trash.png') no-repeat center center;
+    width: 20px;
+    height: 20px;
+    padding: 2px;
+    cursor: pointer;
+}
+
+
+.pm_metakey_handl{
+    float: right;
+    padding-right: 50px;
+}
+
+#pm_post_taxonomy_list{
+    width: 23%;
+    float: left;
+}
+#pm_loading_area{
+    width: 76%;
+    float: right;
+}
+
+
+
+/* post meta manage menu */
+
+.pm_post_meta_option{
+    padding: 10px 0;
+}
+.pm_post_meta_option a{
+    float: right;
+}
+
+/* manage Group */
+
+
+#pm_manage_group{
+    overflow: hidden;
+    padding: 0 0 10px 0;
+}
+
+/* Post Type and Taxonomy */
+.pm_menu_option{
+    padding: 10px 0;
+}
+.pm_menu_option .pm_manage_menu_option{
+    float: right;
+}
+.pm_manage_menu_option .delete{
+    color:red;
+}
+#pm_tabs .pm_field{
+    padding: 5px 0;
+}
+
+#pm_tabs .pm_field .pm_label{
+    width: 25%;
+    float: left;
+}
+#pm_tabs .pm_field .pm_field_item{
+    width: 70%;
+    margin-left: 30%;
+}
+
+
+.pm_menu_button{
+    margin: 20px 0 10px 0;
+     
+} 
+
+/* page setup */
+
+#pm_content{
+    width: 73%;
+    float: left;
+}
+#pm_sidebar{
+    width: 25%;
+    float: right;
+}
+
+.pm-list{
+    margin: 5px 0 10px 10px;
+}
+
+.pm-list ul {
+    list-style-type: square;
+    margin: 5px 0 5px 40px;
+}
+.pm-hr{
+    background-color: white;
+    height: 1px;
+    overflow: hidden;
+    border-top: 1px solid #E6E6E6;
+    border-bottom: 1px solid white;
+    margin: 10px 0;
+    clear: both;
+}
+
+/* Import export */
+
+.import-status .new {
+    color: green;
+}
+.import-status .over-right {
+    color: red;
+}
+
+/* end tmport export */

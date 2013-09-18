@@ -1,0 +1,612 @@
+LOG ENTRY: Tue Aug 13th, 2013 @ precisely 8:02 am UTC
+PHP v5.4.16 :: WordPress® v3.5.2 :: s2Member® v130617
+Memory 19.42 MB :: Real Memory 19.50 MB :: Peak Memory 19.45 MB :: Real Peak Memory 19.50 MB
+myjobodesk.com/bcd/wp-admin/user-new.php
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.122 CoRom/27.0.1453.122 Safari/537.36
+array (
+  'user_id' => 10,
+  'password' => false,
+  'pagenow' => 'user-new.php',
+  'email_config' => true,
+  'processed' => 'yes',
+  'user' => 
+  WP_User::__set_state(array(
+     'data' => 
+    stdClass::__set_state(array(
+       'ID' => '10',
+       'user_login' => 'hung',
+       'user_pass' => 'xxxxxxxx/pass',
+       'user_nicename' => 'hung',
+       'user_email' => 'buyer.testtingwp@gmail.com',
+       'user_url' => 'http://admin',
+       'user_registered' => '2013-08-13 08:02:01',
+       'user_activation_key' => '',
+       'user_status' => '0',
+       'display_name' => 'ton that hung',
+    )),
+     'ID' => 10,
+     'caps' => 
+    array (
+      'subscriber' => true,
+    ),
+     'cap_key' => 'wp_rotcapabilities',
+     'roles' => 
+    array (
+      0 => 'subscriber',
+    ),
+     'allcaps' => 
+    array (
+      'read' => true,
+      'level_0' => true,
+      'edit_listings' => true,
+      'edit_published_listings' => true,
+      'delete_listings' => true,
+      'access_s2member_level0' => true,
+      'subscriber' => true,
+    ),
+     'filter' => NULL,
+  )),
+  '_pmr' => 
+  array (
+    'action' => 'createuser',
+    '_wpnonce_create-user' => '3852a9efc9',
+    '_wp_http_referer' => '/bcd/wp-admin/user-new.php',
+    'user_login' => 'hung',
+    'email' => 'buyer.testtingwp@gmail.com',
+    'first_name' => 'ton that',
+    'last_name' => 'hung',
+    'url' => 'admin',
+    'pass1' => 'xxxxxxxx/pass',
+    'pass2' => 'xxxxxxxx/pass',
+    'role' => 'subscriber',
+    'ws_plugin__s2member_user_new_s2member_subscr_gateway' => 'paypal',
+    'ws_plugin__s2member_user_new_s2member_subscr_id' => '',
+    'ws_plugin__s2member_user_new_s2member_custom' => '',
+    'ws_plugin__s2member_user_new_s2member_registration_ip' => '',
+    'ws_plugin__s2member_user_new_s2member_ccaps' => '',
+    'ws_plugin__s2member_user_new_s2member_auto_eot_time' => '',
+    'ws_plugin__s2member_user_new_s2member_notes' => '',
+    'createuser' => 'Thêm người dùng mới',
+    'ws_plugin__s2member_custom_reg_field_s2member_subscr_gateway' => 'paypal',
+    'ws_plugin__s2member_custom_reg_field_s2member_subscr_id' => '',
+    'ws_plugin__s2member_custom_reg_field_s2member_custom' => '',
+    'ws_plugin__s2member_custom_reg_field_s2member_registration_ip' => '',
+    'ws_plugin__s2member_custom_reg_field_s2member_ccaps' => '',
+    'ws_plugin__s2member_custom_reg_field_s2member_auto_eot_time' => '',
+    'ws_plugin__s2member_custom_reg_field_s2member_notes' => '',
+    0 => '',
+  ),
+  'custom_reg_display_name' => 'full',
+  'current_role' => 'subscriber',
+  'role' => 'subscriber',
+  'php_errormsg' => 'Undefined index: ws_plugin__s2member_registration_return_url',
+  'level' => '0',
+  'ccaps' => '',
+  'email' => 'buyer.testtingwp@gmail.com',
+  'login' => 'hung',
+  'ip' => '',
+  'custom' => '',
+  'subscr_id' => '',
+  'subscr_gateway' => 'paypal',
+  'cv' => 
+  array (
+    0 => '',
+  ),
+  'eot' => '',
+  'auto_eot_time' => '',
+  'notes' => '',
+  'opt_in' => false,
+  'fname' => 'ton that',
+  'lname' => 'hung',
+  'name' => 'ton that hung',
+  'pass' => 'xxxxxxxx/pass',
+  'fields' => 
+  array (
+  ),
+)
+
+LOG ENTRY: Tue Aug 13th, 2013 @ precisely 8:59 am UTC
+PHP v5.4.16 :: WordPress® v3.5.2 :: s2Member® v130617
+Memory 16.68 MB :: Real Memory 17.00 MB :: Peak Memory 16.75 MB :: Real Peak Memory 17.00 MB
+myjobodesk.com/bcd/wp-login.php?action=register
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.122 CoRom/27.0.1453.122 Safari/537.36
+array (
+  'user_id' => 11,
+  'password' => false,
+  'pagenow' => 'wp-login.php',
+  'email_config' => true,
+  'processed' => 'yes',
+  'user' => 
+  WP_User::__set_state(array(
+     'data' => 
+    stdClass::__set_state(array(
+       'ID' => '11',
+       'user_login' => 'hung.seller',
+       'user_pass' => 'xxxxxxxx/pass',
+       'user_nicename' => 'hung-seller',
+       'user_email' => 'hung.seller@gmail.com',
+       'user_url' => '',
+       'user_registered' => '2013-08-13 08:59:44',
+       'user_activation_key' => '',
+       'user_status' => '0',
+       'display_name' => 'hung.seller',
+    )),
+     'ID' => 11,
+     'caps' => 
+    array (
+      'subscriber' => true,
+    ),
+     'cap_key' => 'wp_rotcapabilities',
+     'roles' => 
+    array (
+      0 => 'subscriber',
+    ),
+     'allcaps' => 
+    array (
+      'read' => true,
+      'level_0' => true,
+      'edit_listings' => true,
+      'edit_published_listings' => true,
+      'delete_listings' => true,
+      'access_s2member_level0' => true,
+      'subscriber' => true,
+    ),
+     'filter' => NULL,
+  )),
+  '_pmr' => 
+  array (
+    'user_login' => 'hung.seller',
+    'user_email' => 'hung.seller@gmail.com',
+    'ws_plugin__s2member_registration' => '4769cb8636',
+    'ws_plugin__s2member_custom_reg_field_user_pass1' => 'xxxxxxxx/pass',
+    'ws_plugin__s2member_custom_reg_field_user_pass2' => 'xxxxxxxx/pass',
+    'ws_plugin__s2member_custom_reg_field_first_name' => 'ton that',
+    'ws_plugin__s2member_custom_reg_field_last_name' => 'hung',
+    'redirect_to' => '',
+    'wp-submit' => 'Đăng ký',
+    0 => '',
+  ),
+  'custom_reg_display_name' => 'full',
+  'reg_cookies' => false,
+  'current_role' => 'subscriber',
+  'role' => 'subscriber',
+  'php_errormsg' => 'Undefined index: ws_plugin__s2member_registration_return_url',
+  'level' => '0',
+  'ccaps' => '',
+  'email' => 'hung.seller@gmail.com',
+  'login' => 'hung.seller',
+  'ip' => '117.3.172.162',
+  'custom' => '',
+  'subscr_id' => '',
+  'subscr_gateway' => '',
+  'cv' => 
+  array (
+    0 => '',
+  ),
+  'eot' => '',
+  'auto_eot_time' => '',
+  'notes' => '',
+  'opt_in' => false,
+  'fname' => 'ton that',
+  'lname' => 'hung',
+  'name' => 'ton that hung',
+  'pass' => 'xxxxxxxx/pass',
+  'fields' => 
+  array (
+  ),
+)
+
+LOG ENTRY: Wed Aug 14th, 2013 @ precisely 1:25 am UTC
+PHP v5.4.16 :: WordPress® v3.5.2 :: s2Member® v130617
+Memory 19.42 MB :: Real Memory 19.50 MB :: Peak Memory 19.45 MB :: Real Peak Memory 19.50 MB
+myjobodesk.com/bcd/wp-admin/user-new.php
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.122 CoRom/27.0.1453.122 Safari/537.36
+array (
+  'user_id' => 12,
+  'password' => false,
+  'pagenow' => 'user-new.php',
+  'email_config' => true,
+  'processed' => 'yes',
+  'user' => 
+  WP_User::__set_state(array(
+     'data' => 
+    stdClass::__set_state(array(
+       'ID' => '12',
+       'user_login' => 'hung.it1',
+       'user_pass' => 'xxxxxxxx/pass',
+       'user_nicename' => 'hung-it1',
+       'user_email' => 'hung.it1@gmail.com',
+       'user_url' => 'http://admin',
+       'user_registered' => '2013-08-14 01:25:03',
+       'user_activation_key' => '',
+       'user_status' => '0',
+       'display_name' => 'ton that hung',
+    )),
+     'ID' => 12,
+     'caps' => 
+    array (
+      'subscriber' => true,
+    ),
+     'cap_key' => 'wp_rotcapabilities',
+     'roles' => 
+    array (
+      0 => 'subscriber',
+    ),
+     'allcaps' => 
+    array (
+      'read' => true,
+      'level_0' => true,
+      'edit_listings' => true,
+      'edit_published_listings' => true,
+      'delete_listings' => true,
+      'access_s2member_level0' => true,
+      'subscriber' => true,
+    ),
+     'filter' => NULL,
+  )),
+  '_pmr' => 
+  array (
+    'action' => 'createuser',
+    '_wpnonce_create-user' => '53bd75158e',
+    '_wp_http_referer' => '/bcd/wp-admin/user-new.php',
+    'user_login' => 'hung.it1',
+    'email' => 'hung.it1@gmail.com',
+    'first_name' => 'ton that',
+    'last_name' => 'hung',
+    'url' => 'admin',
+    'pass1' => 'xxxxxxxx/pass',
+    'pass2' => 'xxxxxxxx/pass',
+    'send_password' => 'xxxxxxxx/pass',
+    'role' => 'subscriber',
+    'ws_plugin__s2member_user_new_s2member_subscr_gateway' => 'paypal',
+    'ws_plugin__s2member_user_new_s2member_subscr_id' => '',
+    'ws_plugin__s2member_user_new_s2member_custom' => '',
+    'ws_plugin__s2member_user_new_s2member_registration_ip' => '',
+    'ws_plugin__s2member_user_new_s2member_ccaps' => '',
+    'ws_plugin__s2member_user_new_s2member_auto_eot_time' => '',
+    'ws_plugin__s2member_user_new_s2member_notes' => '',
+    'createuser' => 'Thêm người dùng mới',
+    'ws_plugin__s2member_custom_reg_field_s2member_subscr_gateway' => 'paypal',
+    'ws_plugin__s2member_custom_reg_field_s2member_subscr_id' => '',
+    'ws_plugin__s2member_custom_reg_field_s2member_custom' => '',
+    'ws_plugin__s2member_custom_reg_field_s2member_registration_ip' => '',
+    'ws_plugin__s2member_custom_reg_field_s2member_ccaps' => '',
+    'ws_plugin__s2member_custom_reg_field_s2member_auto_eot_time' => '',
+    'ws_plugin__s2member_custom_reg_field_s2member_notes' => '',
+    0 => '',
+  ),
+  'custom_reg_display_name' => 'full',
+  'current_role' => 'subscriber',
+  'role' => 'subscriber',
+  'php_errormsg' => 'Undefined index: ws_plugin__s2member_registration_return_url',
+  'level' => '0',
+  'ccaps' => '',
+  'email' => 'hung.it1@gmail.com',
+  'login' => 'hung.it1',
+  'ip' => '',
+  'custom' => '',
+  'subscr_id' => '',
+  'subscr_gateway' => 'paypal',
+  'cv' => 
+  array (
+    0 => '',
+  ),
+  'eot' => '',
+  'auto_eot_time' => '',
+  'notes' => '',
+  'opt_in' => false,
+  'fname' => 'ton that',
+  'lname' => 'hung',
+  'name' => 'ton that hung',
+  'pass' => 'xxxxxxxx/pass',
+  'fields' => 
+  array (
+  ),
+)
+
+LOG ENTRY: Fri Aug 16th, 2013 @ precisely 2:40 am UTC
+PHP v5.4.16 :: WordPress® v3.5.2 :: s2Member® v130617
+Memory 20.32 MB :: Real Memory 20.50 MB :: Peak Memory 20.35 MB :: Real Peak Memory 20.50 MB
+myjobodesk.com/bcd/wp-admin/user-new.php
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.122 CoRom/27.0.1453.122 Safari/537.36
+array (
+  'user_id' => 13,
+  'password' => false,
+  'pagenow' => 'user-new.php',
+  'email_config' => true,
+  'processed' => 'yes',
+  'user' => 
+  WP_User::__set_state(array(
+     'data' => 
+    stdClass::__set_state(array(
+       'ID' => '13',
+       'user_login' => 'hung.hung',
+       'user_pass' => 'xxxxxxxx/pass',
+       'user_nicename' => 'hung-hung',
+       'user_email' => 'hung.hung@gmail.com',
+       'user_url' => 'http://admin',
+       'user_registered' => '2013-08-16 02:40:37',
+       'user_activation_key' => '',
+       'user_status' => '0',
+       'display_name' => 'ton that hung',
+    )),
+     'ID' => 13,
+     'caps' => 
+    array (
+      'subscriber' => true,
+    ),
+     'cap_key' => 'wp_rotcapabilities',
+     'roles' => 
+    array (
+      0 => 'subscriber',
+    ),
+     'allcaps' => 
+    array (
+      'read' => true,
+      'level_0' => true,
+      'edit_listings' => true,
+      'edit_published_listings' => true,
+      'delete_listings' => true,
+      'access_s2member_level0' => true,
+      'subscriber' => true,
+    ),
+     'filter' => NULL,
+  )),
+  '_pmr' => 
+  array (
+    'action' => 'createuser',
+    '_wpnonce_create-user' => 'ccf24fd81f',
+    '_wp_http_referer' => '/bcd/wp-admin/user-new.php',
+    'user_login' => 'hung.hung',
+    'email' => 'hung.hung@gmail.com',
+    'first_name' => 'ton that',
+    'last_name' => 'hung',
+    'url' => 'admin',
+    'pass1' => 'xxxxxxxx/pass',
+    'pass2' => 'xxxxxxxx/pass',
+    'send_password' => 'xxxxxxxx/pass',
+    'role' => 'subscriber',
+    'ws_plugin__s2member_user_new_s2member_subscr_gateway' => 'paypal',
+    'ws_plugin__s2member_user_new_s2member_subscr_id' => '',
+    'ws_plugin__s2member_user_new_s2member_custom' => '',
+    'ws_plugin__s2member_user_new_s2member_registration_ip' => '',
+    'ws_plugin__s2member_user_new_s2member_ccaps' => '',
+    'ws_plugin__s2member_user_new_s2member_auto_eot_time' => '',
+    'ws_plugin__s2member_user_new_s2member_notes' => '',
+    'createuser' => 'Add New User',
+    'ws_plugin__s2member_custom_reg_field_s2member_subscr_gateway' => 'paypal',
+    'ws_plugin__s2member_custom_reg_field_s2member_subscr_id' => '',
+    'ws_plugin__s2member_custom_reg_field_s2member_custom' => '',
+    'ws_plugin__s2member_custom_reg_field_s2member_registration_ip' => '',
+    'ws_plugin__s2member_custom_reg_field_s2member_ccaps' => '',
+    'ws_plugin__s2member_custom_reg_field_s2member_auto_eot_time' => '',
+    'ws_plugin__s2member_custom_reg_field_s2member_notes' => '',
+    0 => '',
+  ),
+  'custom_reg_display_name' => 'full',
+  'current_role' => 'subscriber',
+  'role' => 'subscriber',
+  'php_errormsg' => 'Undefined index: ws_plugin__s2member_registration_return_url',
+  'level' => '0',
+  'ccaps' => '',
+  'email' => 'hung.hung@gmail.com',
+  'login' => 'hung.hung',
+  'ip' => '',
+  'custom' => '',
+  'subscr_id' => '',
+  'subscr_gateway' => 'paypal',
+  'cv' => 
+  array (
+    0 => '',
+  ),
+  'eot' => '',
+  'auto_eot_time' => '',
+  'notes' => '',
+  'opt_in' => false,
+  'fname' => 'ton that',
+  'lname' => 'hung',
+  'name' => 'ton that hung',
+  'pass' => 'xxxxxxxx/pass',
+  'fields' => 
+  array (
+  ),
+)
+
+LOG ENTRY: Fri Aug 16th, 2013 @ precisely 7:48 am UTC
+PHP v5.4.16 :: WordPress® v3.5.2 :: s2Member® v130617
+Memory 20.69 MB :: Real Memory 20.75 MB :: Peak Memory 20.72 MB :: Real Peak Memory 20.75 MB
+myjobodesk.com/bcd/wp-admin/user-new.php
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.122 CoRom/27.0.1453.122 Safari/537.36
+array (
+  'user_id' => 14,
+  'password' => false,
+  'pagenow' => 'user-new.php',
+  'email_config' => true,
+  'processed' => 'yes',
+  'user' => 
+  WP_User::__set_state(array(
+     'data' => 
+    stdClass::__set_state(array(
+       'ID' => '14',
+       'user_login' => 'hung.hung1',
+       'user_pass' => 'xxxxxxxx/pass',
+       'user_nicename' => 'hung-hung1',
+       'user_email' => 'hung.hung1@gmail.com',
+       'user_url' => 'http://admin',
+       'user_registered' => '2013-08-16 07:48:16',
+       'user_activation_key' => '',
+       'user_status' => '0',
+       'display_name' => 'ton that hung',
+    )),
+     'ID' => 14,
+     'caps' => 
+    array (
+      'subscriber' => true,
+    ),
+     'cap_key' => 'wp_rotcapabilities',
+     'roles' => 
+    array (
+      0 => 'subscriber',
+    ),
+     'allcaps' => 
+    array (
+      'read' => true,
+      'level_0' => true,
+      'edit_listings' => true,
+      'edit_published_listings' => true,
+      'delete_listings' => true,
+      'access_s2member_level0' => true,
+      'subscriber' => true,
+    ),
+     'filter' => NULL,
+  )),
+  '_pmr' => 
+  array (
+    'action' => 'createuser',
+    '_wpnonce_create-user' => 'ccf24fd81f',
+    '_wp_http_referer' => '/bcd/wp-admin/user-new.php',
+    'user_login' => 'hung.hung1',
+    'email' => 'hung.hung1@gmail.com',
+    'first_name' => 'ton that',
+    'last_name' => 'hung',
+    'url' => 'admin',
+    'pass1' => 'xxxxxxxx/pass',
+    'pass2' => 'xxxxxxxx/pass',
+    'role' => 'subscriber',
+    'ws_plugin__s2member_user_new_s2member_subscr_gateway' => '',
+    'ws_plugin__s2member_user_new_s2member_subscr_id' => '',
+    'ws_plugin__s2member_user_new_s2member_custom' => '',
+    'ws_plugin__s2member_user_new_s2member_registration_ip' => '',
+    'ws_plugin__s2member_user_new_s2member_ccaps' => '',
+    'ws_plugin__s2member_user_new_s2member_auto_eot_time' => '',
+    'ws_plugin__s2member_user_new_s2member_notes' => '',
+    'createuser' => 'Add New User',
+    'ws_plugin__s2member_custom_reg_field_s2member_subscr_gateway' => '',
+    'ws_plugin__s2member_custom_reg_field_s2member_subscr_id' => '',
+    'ws_plugin__s2member_custom_reg_field_s2member_custom' => '',
+    'ws_plugin__s2member_custom_reg_field_s2member_registration_ip' => '',
+    'ws_plugin__s2member_custom_reg_field_s2member_ccaps' => '',
+    'ws_plugin__s2member_custom_reg_field_s2member_auto_eot_time' => '',
+    'ws_plugin__s2member_custom_reg_field_s2member_notes' => '',
+    0 => '',
+  ),
+  'custom_reg_display_name' => 'full',
+  'current_role' => 'subscriber',
+  'role' => 'subscriber',
+  'php_errormsg' => 'Undefined index: ws_plugin__s2member_registration_return_url',
+  'level' => '0',
+  'ccaps' => '',
+  'email' => 'hung.hung1@gmail.com',
+  'login' => 'hung.hung1',
+  'ip' => '',
+  'custom' => '',
+  'subscr_id' => '',
+  'subscr_gateway' => '',
+  'cv' => 
+  array (
+    0 => '',
+  ),
+  'eot' => '',
+  'auto_eot_time' => '',
+  'notes' => '',
+  'opt_in' => false,
+  'fname' => 'ton that',
+  'lname' => 'hung',
+  'name' => 'ton that hung',
+  'pass' => 'xxxxxxxx/pass',
+  'fields' => 
+  array (
+  ),
+)
+
+LOG ENTRY: Tue Aug 27th, 2013 @ precisely 5:25 am UTC
+PHP v5.4.16 :: WordPress® v3.5.2 :: s2Member® v130617
+Memory 18.06 MB :: Real Memory 18.25 MB :: Peak Memory 18.13 MB :: Real Peak Memory 18.25 MB
+myjobodesk.com/bcd/wp-login.php?action=register
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+array (
+  'user_id' => 15,
+  'password' => false,
+  'pagenow' => 'wp-login.php',
+  'email_config' => true,
+  'processed' => 'yes',
+  'user' => 
+  WP_User::__set_state(array(
+     'data' => 
+    stdClass::__set_state(array(
+       'ID' => '15',
+       'user_login' => 'DamarisWitcher',
+       'user_pass' => 'xxxxxxxx/pass',
+       'user_nicename' => 'damariswitcher',
+       'user_email' => 'wtmmhwyc216@hotmail.com',
+       'user_url' => '',
+       'user_registered' => '2013-08-27 05:25:10',
+       'user_activation_key' => '',
+       'user_status' => '0',
+       'display_name' => 'DamarisWitcher',
+    )),
+     'ID' => 15,
+     'caps' => 
+    array (
+      'subscriber' => true,
+    ),
+     'cap_key' => 'wp_rotcapabilities',
+     'roles' => 
+    array (
+      0 => 'subscriber',
+    ),
+     'allcaps' => 
+    array (
+      'read' => true,
+      'level_0' => true,
+      'edit_listings' => true,
+      'edit_published_listings' => true,
+      'delete_listings' => true,
+      'access_s2member_level0' => true,
+      'subscriber' => true,
+    ),
+     'filter' => NULL,
+  )),
+  '_pmr' => 
+  array (
+    'user_login' => 'DamarisWitcher',
+    'user_email' => 'wtmmhwyc216@hotmail.com',
+    'ws_plugin__s2member_registration' => 'b2be2ce4ac',
+    'ws_plugin__s2member_custom_reg_field_user_pass1' => 'xxxxxxxx/pass',
+    'ws_plugin__s2member_custom_reg_field_user_pass2' => 'xxxxxxxx/pass',
+    'ws_plugin__s2member_custom_reg_field_first_name' => 'Damaris',
+    'ws_plugin__s2member_custom_reg_field_last_name' => 'Witcher',
+    'redirect_to' => '',
+    'wp-submit' => 'Register',
+    0 => '',
+  ),
+  'custom_reg_display_name' => 'full',
+  'reg_cookies' => false,
+  'current_role' => 'subscriber',
+  'role' => 'subscriber',
+  'php_errormsg' => 'Undefined index: ws_plugin__s2member_registration_return_url',
+  'level' => '0',
+  'ccaps' => '',
+  'email' => 'wtmmhwyc216@hotmail.com',
+  'login' => 'DamarisWitcher',
+  'ip' => '199.15.236.39',
+  'custom' => '',
+  'subscr_id' => '',
+  'subscr_gateway' => '',
+  'cv' => 
+  array (
+    0 => '',
+  ),
+  'eot' => '',
+  'auto_eot_time' => '',
+  'notes' => '',
+  'opt_in' => false,
+  'fname' => 'Damaris',
+  'lname' => 'Witcher',
+  'name' => 'Damaris Witcher',
+  'pass' => 'xxxxxxxx/pass',
+  'fields' => 
+  array (
+  ),
+)
+

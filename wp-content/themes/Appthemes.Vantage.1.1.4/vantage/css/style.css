@@ -1,0 +1,489 @@
+body{
+     margin: 0;
+    padding: 0;
+     font-family: Arial,Helvetica,sans-serif !important;
+    font-size: 13px !important; 
+}
+.main-container{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+
+}
+#wpadminbar{
+background:#1F90C5!important;
+}
+#wpadminbar ul{
+    margin: 0;
+    padding: 0;
+    width: 500px;
+}
+.ab-top-menu{
+    width: 50px !important; 
+}
+.form-header{
+    background-color: #2075B8;
+    border-top: 2px solid #AAAAAA;
+    }
+/*TOP MENU*/
+.top-menu{
+}
+.list-top{
+    padding-top: 5px;
+    margin-bottom: 0 !important;
+    padding-bottom: 5px;
+}
+.bt1{
+    background: white url('../images/search.png') left no-repeat;
+}
+.li-search{
+    margin-left: 0 !important;
+}
+.padd{
+    text-align: left;
+}
+.logo {
+	/*background: url(../images/logo.png) no-repeat;*/
+	color: transparent;
+    width:125px;
+   position: relative;
+	height: 118px;
+	margin-top: -40px !important;
+	font: 0/0 a;
+	text-shadow: none;
+	display: block;
+	margin: 5px 20px 0 0px;
+	float:left;
+	top:-15px;
+    
+}
+.span9-search{
+     background-color: #595959;
+    border-bottom-left-radius: 20px;
+    margin-bottom: 0;
+    margin-right: 20px;
+    margin-top: 7px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+/*MENU*/
+.navbar-static-top {
+  margin-bottom: 19px;
+ background: #07a0dc repeat-x !important;
+}
+.navbar-nav > li > a{
+    color: white !important;
+}
+.navbar-nav > li > a:focus{
+     color: black !important;
+}
+.navbar-nav .open .dropdown-menu {
+    background-color: #ccc !important;
+}
+.nav li:hover > ul{
+    display: block;
+     background-color: #ccc !important;
+}
+/*sidebar*/
+.sidebar{
+border: 1px solid #E6D7D7;
+}
+.sidebar p{
+    padding-left: 10px;
+}
+.sidebar p a:hover{
+color: red;
+text-decoration: none;
+}
+.title{
+width: 100%;
+border: 1px solid;
+height: 33px;
+border-radius: 2px;
+text-align: center;
+margin-top: 0px;
+padding-top: 5px;
+color: #fff;
+background: #219DD8;
+font-size: 13px;
+font-weight: bold;
+}
+
+.title h3{
+    padding-top: 5px;
+    font-size: 13px;
+    font-weight: bold;
+    
+}
+/*content*/
+.col-lg-4 h3{
+background: #219DD8;
+height: 31px;
+width: 269px;
+margin-bottom: 1px;
+margin-left: 0px;
+text-align: center;
+margin-top: 11px;
+font-size: 13px;
+font-weight: bold;
+padding-top: 5px;
+color: #fff;
+border: 1px solid #E4C3C3;
+}
+.scroll {
+    border: 1px solid #CCCCCC;
+    float: left;
+    height: 400px;
+    margin-bottom: 30px;
+    overflow-y: scroll;
+    width: 268px !important;
+    margin: 0 !important;
+}
+.span3 ul {
+    line-height: 40px;
+    list-style: none outside none;
+    margin: 0;
+    padding: 0;
+}
+.span3 ul li {
+    margin-left: 20px;
+}
+.span3 ul li a {
+    color: #827F7F;
+    text-decoration: none;
+}
+/*FOOTER*/
+.footer{
+width: 100%;
+margin: 0;
+padding: 0;
+float: left;
+background: #2075b8 repeat;
+margin-top:10px;
+}
+.col-2-row{ color: white;
+    float: left;
+    margin-left: 5px;
+    width: 180px;
+    }
+.img_vien{
+width:100%;
+height: 10px;
+float: left;
+background: url('../images/vngan_footer.png');
+}
+.col1 {
+    color: white;
+    float: left;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+}
+.images_avata img {
+    height: 188px;
+    width: 130px;
+}
+.more_col{
+     background: none repeat scroll 0 0 #8914D6;
+     padding-top: 5px;
+     padding-bottom: 5px;
+     font-weight: bold;
+     color: white;
+}
+.visit_col{
+    background: none repeat scroll 0 0 #38DB72;
+    color: #FFFFFF;
+    font-weight: bold;
+    padding-top: 5px;
+     padding-bottom: 5px;
+}
+.col-xs-4 h3{
+background: #219DD8;
+height: 31px;
+width: 269px;
+margin-bottom: 1px;
+margin-left: 0px;
+text-align: center;
+margin-top: 11px;
+font-size: 13px;
+font-weight: bold;
+padding-top: 5px;
+color: #fff;
+border: 1px solid #E4C3C3;
+}
+.span3-class{
+border: 1px solid #ccc;
+overflow-x: no-display;
+overflow-y: scroll;
+margin-bottom: 30px;
+margin-left: 0 !important;
+}
+.span3-class ul{
+margin: 0;
+padding: 0;
+list-style: none;
+line-height: 40px;
+}
+.span3-class ul li{
+margin-left: 20px;
+}
+.span3-classul li a{
+text-decoration: none;
+color: #827f7f;
+}
+.info{
+color: #909090;
+width:402px;
+float: left;
+margin-left: 10px;
+}
+.icon_1{
+width: 100%;
+height: 17px;
+float: left;
+margin-top: 10px;
+margin-left: 5px;
+}
+.icon_1 ul{
+margin: 0;
+padding: 0;
+list-style: none;
+}
+.icon_1 ul li{
+float: left;
+margin-left: 5px;
+}
+.icon_1 img{
+border:none;
+ width: 17px;
+ height: 17px;   
+}
+label{
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+.form-area{
+    margin-left: 0 !important;
+    margin-bottom: 10px;
+}
+.row1{
+    color: #909090;
+    font-size: 12px;
+}
+.span7-blog{
+    margin-left: 0 !important;
+    margin-bottom: 20px !important;
+}
+.top-video-a{
+	width:300px;
+	margin:5px;
+	float:left;
+	margin-bottom: 20px;
+	margin-top:20px;
+}
+
+.top-video-a1{
+ width:100%;
+ height:200px;
+ float:left;
+ border:solid 1px black;
+}
+
+.video-txt{
+	float:left;
+	margin-left: 7%;
+	margin-right: 7%;
+}
+
+.midle{
+	margin-top:0px;
+}
+.box{
+     background: none repeat scroll 0 0 #FBFBFB;
+    border: 1px solid #CCCCCC;
+    height: 148px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+}
+.select{
+    margin-left: 5px !important;
+    width:120px;
+    margin-top: 3px;
+}
+.o1{
+    border-bottom: 1px #ccc solid;
+}
+.read-more{
+    color: #739ed3;
+    font-weight: bold;
+    margin-left: 5px;
+}
+#register-lastnew ul{
+    list-style-image: url(../images/tick.png);
+}
+#title_tx{
+    font-weight: bold;
+    font-size: 14px;
+}
+.menu-top-fixed{
+background: #2075B8;
+font-size: 12px;
+}
+.menu-top-fixed a{
+    color: white;
+}
+.menu-top-fixed a:hover{
+    color: #FF0000;
+}
+.title-page{
+    font-size: 14px;
+    color: red;
+    font-weight: bold;
+    padding-left: 50px;
+}
+#title_tx{
+    border-bottom: 1px black solid;
+}
+.footer{
+    color: white;
+}
+.medium{
+    border:  1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 1px 6px #ccc inset;
+}
+.medium:focus{
+    border: 1px solid  #66afe9;
+}
+.tx{
+    padding-top: 20px;
+}
+
+.clear-file {
+  color: #ffffff;
+  background-color: #428bca;
+  border-color: #357ebd;
+}
+
+.clear-file:hover,
+.clear-file:focus,
+.clear-file:active,
+.clear-file.active,
+.open .dropdown-toggle.clear-file {
+  color: #ffffff;
+  background-color: #3276b1;
+  border-color: #285e8e;
+}
+
+.clear-file:active,
+.clear-file.active,
+.open .dropdown-toggle.clear-file {
+  background-image: none;
+}
+.bntp{
+     text-align: center;
+    background: #2a6496;
+    color: #fff;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    float: left;
+    padding: 3px;
+    padding-left:4px;
+    padding-right:4px;
+    margin:3px;
+    cursor: pointer;
+}
+
+.bntp:hover{
+    background-color: gray;
+}
+.product{
+    text-align: center;
+    width:200px;
+    float:left;
+    padding:10px;
+}
+
+.product h2{
+    font-size:14px;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+.product img{
+    width:60px;
+    height:60px;
+}
+
+.authors{
+    float: left;
+    margin-left:5px;
+    margin-right: 5px;
+    padding: 5px;
+    width: 100%;
+}
+
+.authors h2{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.bntdelete{
+    width:100%;
+    background: #00BFFF;
+    color: #fff;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    float: left;
+    padding: 3px;
+    margin:3px;
+    cursor: pointer;
+  
+}
+
+.bntdelete:hover{
+    background: #2a6496;
+}
+	* {margin: 0;
+		padding: 0
+	}
+	.thienthanh {
+		  width: 400px;
+		  height: 500px;
+		  margin: 20px auto;
+		  overflow: scroll; /* showing scrollbars */
+	}
+	
+	p {
+		margin: 0 0 2em 0;
+	}
+	
+	::-webkit-scrollbar {
+		  width: 15px;
+	} /* this targets the default scrollbar (compulsory) */
+	
+	::-webkit-scrollbar-track {
+		  background-color: #ccc;
+	} /* the new scrollbar will have a flat appearance with the set background color */
+
+	::-webkit-scrollbar-thumb {
+		  background-color: #f5f5f5;
+          	position: relative;
+	top: 0;
+	left: 0;
+	cursor: pointer;
+    height: 20px !important;
+    border-radius: 5px; 
+	} /* this will style the thumb, ignoring the track */
+
+	::-webkit-scrollbar-button {
+		  background-color: #ccc;
+	} /* optionally, you can style the top and the bottom buttons (left and right for horizontal bars) */
+
+	::-webkit-scrollbar-corner {
+		  background-color:#ccc;
+	} /* if both the vertical and the horizontal bars appear, then perhaps the right bottom corner also needs to be styled */	
+	

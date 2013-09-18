@@ -1,0 +1,7 @@
+<?php
+// Customize admin footer
+function mpt_admin_footer () {
+	echo 'Imagination is more important than knowledge. &raquo; <strong><em>Albert Einstein</em></strong>';
+}
+add_filter('admin_footer_text', 'mpt_admin_footer');
+

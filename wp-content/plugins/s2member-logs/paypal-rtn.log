@@ -1,0 +1,699 @@
+LOG ENTRY: Tue Aug 13th, 2013 @ precisely 2:12 am UTC
+PHP v5.4.16 :: WordPress® v3.5.2 :: s2Member® v130617
+Memory 14.95 MB :: Real Memory 15.50 MB :: Peak Memory 15.01 MB :: Real Peak Memory 15.50 MB
+myjobodesk.com/bcd/?s2member_paypal_return=1&s2member_paypal_return_tra=fnIyOkF6M0JZeklXRkVxbXJ0TTlRWWZsV0hjQ2JwQzhRSEpHOjRkZWEyYjlkMTA1OGQyZmRlMzQ2ZjM5OGI0ZmNhYTRhfIw4rIlC69tAsm9U9k3U9P81OfalwoyNSC0bj%2dx3uuyBHDl%2diPXERyFla5WSj5W1LGpGX56i3hnJnVvtxoOfCCQwbPc1lvu9utMoJVpqRcwYao9FFC44Rk19K5%5f3Qb4%2d6os9y%5fHbCMqzWwi1AkIoraV0BW6Abx57WxrSAjsOi7KI07wUXznGjXcxzKG5bfvpCex36Q8OVwNnlUr8Nl1sL9xI7xjgU81ETkIR%5fA3UzHsi6tU72ZN6OsK6nvRCmtTeA8qdeZFr7NpvMQDQb%5faa2X9hZ3OJpZg%2dxF38HcVvac0LycptMFmBWPeTIgV6m4JJC1JsK54rIFn9MBFxqmBes2uG26yilltsyvMguv6tvyh17VNLrKE9b8Q5UQoAmyEsvA
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.122 CoRom/27.0.1453.122 Safari/537.36
+array (
+  'subscr_gateway' => 'paypal',
+  's2member_log' => 
+  array (
+    0 => 'No Return-Data. Customer MUST wait for Email Confirmation.',
+    1 => 'Note. This can sometimes happen when/if you are offering an Initial/Trial Period. There are times when a Payment Gateway will NOT supply s2Member with any data immediately after checkout. When/if this happens, s2Member must process the transaction via IPN only (i.e. behind-the-scene), and the Customer must wait for Email Confirmation in these cases.',
+    2 => 'array (
+  \'s2member_paypal_return\' => \'1\',
+  \'s2member_paypal_return_tra\' => \'fnIyOkF6M0JZeklXRkVxbXJ0TTlRWWZsV0hjQ2JwQzhRSEpHOjRkZWEyYjlkMTA1OGQyZmRlMzQ2ZjM5OGI0ZmNhYTRhfIw4rIlC69tAsm9U9k3U9P81OfalwoyNSC0bj-x3uuyBHDl-iPXERyFla5WSj5W1LGpGX56i3hnJnVvtxoOfCCQwbPc1lvu9utMoJVpqRcwYao9FFC44Rk19K5_3Qb4-6os9y_HbCMqzWwi1AkIoraV0BW6Abx57WxrSAjsOi7KI07wUXznGjXcxzKG5bfvpCex36Q8OVwNnlUr8Nl1sL9xI7xjgU81ETkIR_A3UzHsi6tU72ZN6OsK6nvRCmtTeA8qdeZFr7NpvMQDQb_aa2X9hZ3OJpZg-xF38HcVvac0LycptMFmBWPeTIgV6m4JJC1JsK54rIFn9MBFxqmBes2uG26yilltsyvMguv6tvyh17VNLrKE9b8Q5UQoAmyEsvA\',
+  \'txn_type\' => \'subscr_signup\',
+  \'subscr_id\' => \'I-BCT15CP4WPK8\',
+  \'last_name\' => \'Hng\',
+  \'option_selection1\' => \'1\',
+  \'option_selection2\' => \'117.3.167.18\',
+  \'residence_country\' => \'US\',
+  \'mc_currency\' => \'USD\',
+  \'item_name\' => \'Bronze Member / description and pricing details here.\',
+  \'business\' => \'tonthathung.it@gmail.com\',
+  \'amount3\' => \'1.00\',
+  \'recurring\' => \'1\',
+  \'payer_status\' => \'verified\',
+  \'payer_email\' => \'buyer.testtingwp@gmail.com\',
+  \'first_name\' => \'tonthathungit\',
+  \'receiver_email\' => \'tonthathung.it@gmail.com\',
+  \'payer_id\' => \'66BBNUWK3GZ7Q\',
+  \'option_name1\' => \'Referencing Customer ID\',
+  \'invoice\' => \'520995b0623f7~117.3.167.18\',
+  \'option_name2\' => \'Customer IP Address\',
+  \'reattempt\' => \'1\',
+  \'item_number\' => \'1\',
+  \'subscr_date\' => \'19:12:06 Aug 12, 2013 PDT\',
+  \'custom\' => \'myjobodesk.com\',
+  \'charset\' => \'windows-1252\',
+  \'period3\' => \'1 M\',
+  \'mc_amount3\' => \'1.00\',
+  \'auth\' => \'AG-289-p0tEwNZUaXv1ntC5AwXZdiYHT67p3JWQ3dTetNYzriTLvGJAOniMccQO07FUagmI7t0sCYfj6xN2jN9A\',
+  \'form_charset\' => \'UTF-8\',
+)',
+    3 => 'Redirecting Customer to the Home Page (after asking Customer to check their email).',
+  ),
+  's2member_paypal_return_tra' => 'fnIyOkF6M0JZeklXRkVxbXJ0TTlRWWZsV0hjQ2JwQzhRSEpHOjRkZWEyYjlkMTA1OGQyZmRlMzQ2ZjM5OGI0ZmNhYTRhfIw4rIlC69tAsm9U9k3U9P81OfalwoyNSC0bj-x3uuyBHDl-iPXERyFla5WSj5W1LGpGX56i3hnJnVvtxoOfCCQwbPc1lvu9utMoJVpqRcwYao9FFC44Rk19K5_3Qb4-6os9y_HbCMqzWwi1AkIoraV0BW6Abx57WxrSAjsOi7KI07wUXznGjXcxzKG5bfvpCex36Q8OVwNnlUr8Nl1sL9xI7xjgU81ETkIR_A3UzHsi6tU72ZN6OsK6nvRCmtTeA8qdeZFr7NpvMQDQb_aa2X9hZ3OJpZg-xF38HcVvac0LycptMFmBWPeTIgV6m4JJC1JsK54rIFn9MBFxqmBes2uG26yilltsyvMguv6tvyh17VNLrKE9b8Q5UQoAmyEsvA',
+)
+
+LOG ENTRY: Tue Aug 13th, 2013 @ precisely 7:05 am UTC
+PHP v5.4.16 :: WordPress® v3.5.2 :: s2Member® v130617
+Memory 16.13 MB :: Real Memory 16.50 MB :: Peak Memory 16.19 MB :: Real Peak Memory 16.50 MB
+myjobodesk.com/bcd/?s2member_paypal_return=1&s2member_paypal_return_tra=fnIyOnlkb0xMVlB3dHI0YzFKQTRyaUxqTWoybXRhbFE4MUQ2OmFjMmE1MWJlY2FlZjZkOWFkNzFmODBhZjI4YzE2NmY4fGj8dXhhqznBz7q2dnS76YPyy0k42Ou%2doG7lm2ZEIpXTyzcjzddhz4qDLItw1oXVtGmIKYuCGCvhv7CcoopjYXMv2FDFOhebei9Y63te%5frr3EIErP6tm5%2dHnP%5fDrJyIbAYnxtu8l0fAlid5aIfjTPDWWXbnNn9pJC0ZgUXkbAzKKu%2d8k9Cb%5fEwPmyLjDSKrZ7wJDTJHq6jdD9uQ0A8eBf7kmpQ3JtOsetsqfeftnIQ1MtIol3r66PzcEXxafDEY%2d2Mj0oR7K2G2OGcnHl2nvUw%5fAt8%2dHHEPbwNkHZtLagxRHv5LhtsVPxa%2dSQTWXeJ8bBn6m1RNt5h7d8xSctHrnL0HrO6iw959%5foLE7SomQDllbDENkoNbbDTu2rJereRazHQ
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.122 CoRom/27.0.1453.122 Safari/537.36
+array (
+  'subscr_gateway' => 'paypal',
+  's2member_log' => 
+  array (
+    0 => 'No Return-Data. Customer MUST wait for Email Confirmation.',
+    1 => 'Note. This can sometimes happen when/if you are offering an Initial/Trial Period. There are times when a Payment Gateway will NOT supply s2Member with any data immediately after checkout. When/if this happens, s2Member must process the transaction via IPN only (i.e. behind-the-scene), and the Customer must wait for Email Confirmation in these cases.',
+    2 => 'array (
+  \'s2member_paypal_return\' => \'1\',
+  \'s2member_paypal_return_tra\' => \'fnIyOnlkb0xMVlB3dHI0YzFKQTRyaUxqTWoybXRhbFE4MUQ2OmFjMmE1MWJlY2FlZjZkOWFkNzFmODBhZjI4YzE2NmY4fGj8dXhhqznBz7q2dnS76YPyy0k42Ou-oG7lm2ZEIpXTyzcjzddhz4qDLItw1oXVtGmIKYuCGCvhv7CcoopjYXMv2FDFOhebei9Y63te_rr3EIErP6tm5-HnP_DrJyIbAYnxtu8l0fAlid5aIfjTPDWWXbnNn9pJC0ZgUXkbAzKKu-8k9Cb_EwPmyLjDSKrZ7wJDTJHq6jdD9uQ0A8eBf7kmpQ3JtOsetsqfeftnIQ1MtIol3r66PzcEXxafDEY-2Mj0oR7K2G2OGcnHl2nvUw_At8-HHEPbwNkHZtLagxRHv5LhtsVPxa-SQTWXeJ8bBn6m1RNt5h7d8xSctHrnL0HrO6iw959_oLE7SomQDllbDENkoNbbDTu2rJereRazHQ\',
+  \'txn_type\' => \'subscr_signup\',
+  \'subscr_id\' => \'I-8WYH8W44YKX7\',
+  \'last_name\' => \'Hng\',
+  \'option_selection1\' => \'1\',
+  \'option_selection2\' => \'117.3.172.162\',
+  \'residence_country\' => \'US\',
+  \'mc_currency\' => \'USD\',
+  \'item_name\' => \'Bronze Member / description and pricing details here.\',
+  \'business\' => \'tonthathung.it@gmail.com\',
+  \'amount3\' => \'1.00\',
+  \'recurring\' => \'1\',
+  \'payer_status\' => \'verified\',
+  \'payer_email\' => \'buyer.testtingwp@gmail.com\',
+  \'first_name\' => \'tonthathungit\',
+  \'receiver_email\' => \'tonthathung.it@gmail.com\',
+  \'payer_id\' => \'66BBNUWK3GZ7Q\',
+  \'option_name1\' => \'Referencing Customer ID\',
+  \'invoice\' => \'5209da870c0e5~117.3.172.162\',
+  \'option_name2\' => \'Customer IP Address\',
+  \'reattempt\' => \'1\',
+  \'item_number\' => \'1\',
+  \'subscr_date\' => \'00:05:26 Aug 13, 2013 PDT\',
+  \'custom\' => \'myjobodesk.com\',
+  \'charset\' => \'windows-1252\',
+  \'period3\' => \'1 M\',
+  \'mc_amount3\' => \'1.00\',
+  \'auth\' => \'AWj1xLarABJZSU87hvQgOOMTHOLZZxwkDXXU.15HHpDsf-2ehXwjzVkT.d-Z8jKhtPvNFpjuVRBbg0URQFoH.EQ\',
+  \'form_charset\' => \'UTF-8\',
+)',
+    3 => 'Redirecting Customer to the Home Page (after asking Customer to check their email).',
+  ),
+  's2member_paypal_return_tra' => 'fnIyOnlkb0xMVlB3dHI0YzFKQTRyaUxqTWoybXRhbFE4MUQ2OmFjMmE1MWJlY2FlZjZkOWFkNzFmODBhZjI4YzE2NmY4fGj8dXhhqznBz7q2dnS76YPyy0k42Ou-oG7lm2ZEIpXTyzcjzddhz4qDLItw1oXVtGmIKYuCGCvhv7CcoopjYXMv2FDFOhebei9Y63te_rr3EIErP6tm5-HnP_DrJyIbAYnxtu8l0fAlid5aIfjTPDWWXbnNn9pJC0ZgUXkbAzKKu-8k9Cb_EwPmyLjDSKrZ7wJDTJHq6jdD9uQ0A8eBf7kmpQ3JtOsetsqfeftnIQ1MtIol3r66PzcEXxafDEY-2Mj0oR7K2G2OGcnHl2nvUw_At8-HHEPbwNkHZtLagxRHv5LhtsVPxa-SQTWXeJ8bBn6m1RNt5h7d8xSctHrnL0HrO6iw959_oLE7SomQDllbDENkoNbbDTu2rJereRazHQ',
+)
+
+LOG ENTRY: Tue Aug 13th, 2013 @ precisely 7:53 am UTC
+PHP v5.4.16 :: WordPress® v3.5.2 :: s2Member® v130617
+Memory 16.14 MB :: Real Memory 16.50 MB :: Peak Memory 16.19 MB :: Real Peak Memory 16.50 MB
+myjobodesk.com/bcd/?s2member_paypal_return=1&s2member_paypal_return_tra=fnIyOkh4TlBOaThYTHdPdlhyQkFSUDl6aVU0b2pjbXZBUFZ6OmJmMjBkODAyZjUwOWU5ZjhhYzRiNDIzYTdmODQ5MWI0fI%5forrQsFVFaBQ%5fMc64EuSmaVOORvndsaHVPGKUZgz4UokHl0NYYjn5B8LO4YqnY39F%5fm8dVk8dw9QHPallFzAEfMf2ntPNR7lDlxRl7bjnVLpRuHbeFb%2d2acC9j43WSpJH7GT90vSO2z4WwlCiNYmftXfPCzZfeFS%5fkN%5fM3bJeEhaSKnOQHCaMgg2NwcXJU9A0jOLyH6MlAmNUY2SS6eTGH6U3F77c6JjhqOceuDFx843%5fu0QJzVgHB%2dpWzO3WWqG61RV6Bq%5f7Tkh7jl0I2sNp3q4UZ5TsUHStQqzbn0SPSyZkXPijctBemjsAm3NN14PKfmsrs6238KROEnxn9T96FuHzDIW%5fk5Hqb7rvtENiW5sgXQiCY4euZRT%5fI2i3M8A
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.122 CoRom/27.0.1453.122 Safari/537.36
+array (
+  'subscr_gateway' => 'paypal',
+  's2member_log' => 
+  array (
+    0 => 'No Return-Data. Customer MUST wait for Email Confirmation.',
+    1 => 'Note. This can sometimes happen when/if you are offering an Initial/Trial Period. There are times when a Payment Gateway will NOT supply s2Member with any data immediately after checkout. When/if this happens, s2Member must process the transaction via IPN only (i.e. behind-the-scene), and the Customer must wait for Email Confirmation in these cases.',
+    2 => 'array (
+  \'s2member_paypal_return\' => \'1\',
+  \'s2member_paypal_return_tra\' => \'fnIyOkh4TlBOaThYTHdPdlhyQkFSUDl6aVU0b2pjbXZBUFZ6OmJmMjBkODAyZjUwOWU5ZjhhYzRiNDIzYTdmODQ5MWI0fI_orrQsFVFaBQ_Mc64EuSmaVOORvndsaHVPGKUZgz4UokHl0NYYjn5B8LO4YqnY39F_m8dVk8dw9QHPallFzAEfMf2ntPNR7lDlxRl7bjnVLpRuHbeFb-2acC9j43WSpJH7GT90vSO2z4WwlCiNYmftXfPCzZfeFS_kN_M3bJeEhaSKnOQHCaMgg2NwcXJU9A0jOLyH6MlAmNUY2SS6eTGH6U3F77c6JjhqOceuDFx843_u0QJzVgHB-pWzO3WWqG61RV6Bq_7Tkh7jl0I2sNp3q4UZ5TsUHStQqzbn0SPSyZkXPijctBemjsAm3NN14PKfmsrs6238KROEnxn9T96FuHzDIW_k5Hqb7rvtENiW5sgXQiCY4euZRT_I2i3M8A\',
+  \'txn_type\' => \'subscr_signup\',
+  \'subscr_id\' => \'I-AP6HNXMRE56Y\',
+  \'last_name\' => \'Hng\',
+  \'option_selection1\' => \'1\',
+  \'option_selection2\' => \'117.3.172.162\',
+  \'residence_country\' => \'US\',
+  \'mc_currency\' => \'USD\',
+  \'item_name\' => \'Bronze Member / description and pricing details here.\',
+  \'business\' => \'tonthathung.it@gmail.com\',
+  \'amount3\' => \'1.00\',
+  \'recurring\' => \'1\',
+  \'payer_status\' => \'verified\',
+  \'payer_email\' => \'buyer.testtingwp@gmail.com\',
+  \'first_name\' => \'tonthathungit\',
+  \'receiver_email\' => \'tonthathung.it@gmail.com\',
+  \'payer_id\' => \'66BBNUWK3GZ7Q\',
+  \'option_name1\' => \'Referencing Customer ID\',
+  \'invoice\' => \'5209e5ab00daf~117.3.172.162\',
+  \'option_name2\' => \'Customer IP Address\',
+  \'reattempt\' => \'1\',
+  \'item_number\' => \'1\',
+  \'subscr_date\' => \'00:53:21 Aug 13, 2013 PDT\',
+  \'custom\' => \'myjobodesk.com\',
+  \'charset\' => \'windows-1252\',
+  \'period3\' => \'1 M\',
+  \'mc_amount3\' => \'1.00\',
+  \'auth\' => \'AQs4mIuLpWP0uruqw1SN3oFuHh9axBD38r8pmApC5S5sO0bE2WzTyxNqWp.UrIJYDpXbrVIiypgHd.aObykqKvg\',
+  \'form_charset\' => \'UTF-8\',
+)',
+    3 => 'Redirecting Customer to the Home Page (after asking Customer to check their email).',
+  ),
+  's2member_paypal_return_tra' => 'fnIyOkh4TlBOaThYTHdPdlhyQkFSUDl6aVU0b2pjbXZBUFZ6OmJmMjBkODAyZjUwOWU5ZjhhYzRiNDIzYTdmODQ5MWI0fI_orrQsFVFaBQ_Mc64EuSmaVOORvndsaHVPGKUZgz4UokHl0NYYjn5B8LO4YqnY39F_m8dVk8dw9QHPallFzAEfMf2ntPNR7lDlxRl7bjnVLpRuHbeFb-2acC9j43WSpJH7GT90vSO2z4WwlCiNYmftXfPCzZfeFS_kN_M3bJeEhaSKnOQHCaMgg2NwcXJU9A0jOLyH6MlAmNUY2SS6eTGH6U3F77c6JjhqOceuDFx843_u0QJzVgHB-pWzO3WWqG61RV6Bq_7Tkh7jl0I2sNp3q4UZ5TsUHStQqzbn0SPSyZkXPijctBemjsAm3NN14PKfmsrs6238KROEnxn9T96FuHzDIW_k5Hqb7rvtENiW5sgXQiCY4euZRT_I2i3M8A',
+)
+
+LOG ENTRY: Tue Aug 13th, 2013 @ precisely 7:58 am UTC
+PHP v5.4.16 :: WordPress® v3.5.2 :: s2Member® v130617
+Memory 16.14 MB :: Real Memory 16.50 MB :: Peak Memory 16.19 MB :: Real Peak Memory 16.50 MB
+myjobodesk.com/bcd/?s2member_paypal_return=1&s2member_paypal_return_tra=fnIyOm1heG1vMG1ZTXpmVW05VldraXpzeVIyTWFyRUlNb2VVOjMyMjFmYTkzOGVmNmJmNDYwM2E1MjNmMzhlOTFhMTlifAKyaNtQYoO871pOpAKNqi1OIcl38UaU9GKy%2dNUlSPACBvURFl0UeMQ1H62IO3w3rHTXgWHtTASFs3qqd0W9QKZgopvvPv5sSC7wz7cPMpyAcJb%5fhP%2dmAkkCaXgh8WyF%2daDnz2RntHtZJs5XblV2PD4%2dy%2dwaRHyTmPW%2dfYUdMQmvo%2dRgB6FUO8Xw819aJFDPx7imMAeQz%5fIUzoAnYeBoLHlAgSn0Q57VRUgFlqnh9oFu3MD72naqSIqiVV%5fBDPV2ZFTtiKw57kXpBAi%5fAaNc28FTjrkD%5fogL3OM%2d4nDHpWe9xK7F2T3mWBRx53bu9dBwIW5ad5GanNxI78QlGFigMutD%5f2D%2dqTAkwF%5fp68unxwqGfyvSzwHf6NeZ%2dSxuNI%2d42A
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.122 CoRom/27.0.1453.122 Safari/537.36
+array (
+  'subscr_gateway' => 'paypal',
+  's2member_log' => 
+  array (
+    0 => 'No Return-Data. Customer MUST wait for Email Confirmation.',
+    1 => 'Note. This can sometimes happen when/if you are offering an Initial/Trial Period. There are times when a Payment Gateway will NOT supply s2Member with any data immediately after checkout. When/if this happens, s2Member must process the transaction via IPN only (i.e. behind-the-scene), and the Customer must wait for Email Confirmation in these cases.',
+    2 => 'array (
+  \'s2member_paypal_return\' => \'1\',
+  \'s2member_paypal_return_tra\' => \'fnIyOm1heG1vMG1ZTXpmVW05VldraXpzeVIyTWFyRUlNb2VVOjMyMjFmYTkzOGVmNmJmNDYwM2E1MjNmMzhlOTFhMTlifAKyaNtQYoO871pOpAKNqi1OIcl38UaU9GKy-NUlSPACBvURFl0UeMQ1H62IO3w3rHTXgWHtTASFs3qqd0W9QKZgopvvPv5sSC7wz7cPMpyAcJb_hP-mAkkCaXgh8WyF-aDnz2RntHtZJs5XblV2PD4-y-waRHyTmPW-fYUdMQmvo-RgB6FUO8Xw819aJFDPx7imMAeQz_IUzoAnYeBoLHlAgSn0Q57VRUgFlqnh9oFu3MD72naqSIqiVV_BDPV2ZFTtiKw57kXpBAi_AaNc28FTjrkD_ogL3OM-4nDHpWe9xK7F2T3mWBRx53bu9dBwIW5ad5GanNxI78QlGFigMutD_2D-qTAkwF_p68unxwqGfyvSzwHf6NeZ-SxuNI-42A\',
+  \'txn_type\' => \'subscr_signup\',
+  \'subscr_id\' => \'I-M08CF227BGKA\',
+  \'last_name\' => \'Hng\',
+  \'option_selection1\' => \'1\',
+  \'option_selection2\' => \'117.3.172.162\',
+  \'residence_country\' => \'US\',
+  \'mc_currency\' => \'USD\',
+  \'item_name\' => \'Gold Member / description and pricing details here.\',
+  \'business\' => \'tonthathung.it@gmail.com\',
+  \'amount3\' => \'3.00\',
+  \'recurring\' => \'1\',
+  \'payer_status\' => \'verified\',
+  \'payer_email\' => \'buyer.testtingwp@gmail.com\',
+  \'first_name\' => \'tonthathungit\',
+  \'receiver_email\' => \'tonthathung.it@gmail.com\',
+  \'payer_id\' => \'66BBNUWK3GZ7Q\',
+  \'option_name1\' => \'Referencing Customer ID\',
+  \'invoice\' => \'5209e715607df~117.3.172.162\',
+  \'option_name2\' => \'Customer IP Address\',
+  \'reattempt\' => \'1\',
+  \'item_number\' => \'3\',
+  \'subscr_date\' => \'00:58:57 Aug 13, 2013 PDT\',
+  \'custom\' => \'myjobodesk.com\',
+  \'charset\' => \'windows-1252\',
+  \'period3\' => \'1 M\',
+  \'mc_amount3\' => \'3.00\',
+  \'auth\' => \'AYtsoR5WHpoUS2XvdIZTUr9pB2F7T2EuC4oWS458dplD363cgbEvgdNrZpei7kGmoshmbZjxr5D7UI00kcakEBw\',
+  \'form_charset\' => \'UTF-8\',
+)',
+    3 => 'Redirecting Customer to the Home Page (after asking Customer to check their email).',
+  ),
+  's2member_paypal_return_tra' => 'fnIyOm1heG1vMG1ZTXpmVW05VldraXpzeVIyTWFyRUlNb2VVOjMyMjFmYTkzOGVmNmJmNDYwM2E1MjNmMzhlOTFhMTlifAKyaNtQYoO871pOpAKNqi1OIcl38UaU9GKy-NUlSPACBvURFl0UeMQ1H62IO3w3rHTXgWHtTASFs3qqd0W9QKZgopvvPv5sSC7wz7cPMpyAcJb_hP-mAkkCaXgh8WyF-aDnz2RntHtZJs5XblV2PD4-y-waRHyTmPW-fYUdMQmvo-RgB6FUO8Xw819aJFDPx7imMAeQz_IUzoAnYeBoLHlAgSn0Q57VRUgFlqnh9oFu3MD72naqSIqiVV_BDPV2ZFTtiKw57kXpBAi_AaNc28FTjrkD_ogL3OM-4nDHpWe9xK7F2T3mWBRx53bu9dBwIW5ad5GanNxI78QlGFigMutD_2D-qTAkwF_p68unxwqGfyvSzwHf6NeZ-SxuNI-42A',
+)
+
+LOG ENTRY: Tue Aug 13th, 2013 @ precisely 8:08 am UTC
+PHP v5.4.16 :: WordPress® v3.5.2 :: s2Member® v130617
+Memory 16.12 MB :: Real Memory 16.50 MB :: Peak Memory 16.18 MB :: Real Peak Memory 16.50 MB
+myjobodesk.com/bcd/?s2member_paypal_return=1&s2member_paypal_return_tra=fnIyOnNqQXpyclFaMVBMcWRVMk1DaWpLZHRLMmJmSVVVNXhBOmVlYjZkZWEzYThjNzI2Y2NiNDBmOGM2NTgxNjUzZTNmfDsvDdAkcGFlWnLlL%5fUugHrxvKxrDhsQm2NjpPlLJt5gHW4WEhwrpiwah6%5fGEyBFqQa99pIPHqi6IRLoN3Vu6lwAszMK1yZhstacYOn4kyrNxmZIuOI%5fglPRQRqC9p0A5rplmNPE%5fkmPkqQA0Uyf2uF4qy6QfyNdvKMWukUXNU9JdLbqlM%2d5KYyN%5fY2aXurW6BLR%2drw6WHOqZ2mf07p9BDVllFPi2eUPTKGjrDDPWGhYNbvQr0liQZfyeOcfaP3p4ubVnSIQY1k1%5fPZBRd3hOf6t4O7kl7xT2fWH4QEC5NvuooWaEJSJnER2dy%2dxhcCk9QYoCfoFyWZqr5UZHydj1MbgsRB3R2K5ZYZJokmYpoinyQ8ZKs7mMBSYYW%2dXbYa7Fg
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.122 CoRom/27.0.1453.122 Safari/537.36
+array (
+  'subscr_gateway' => 'paypal',
+  's2member_log' => 
+  array (
+    0 => 'No Return-Data. Customer MUST wait for Email Confirmation.',
+    1 => 'Note. This can sometimes happen when/if you are offering an Initial/Trial Period. There are times when a Payment Gateway will NOT supply s2Member with any data immediately after checkout. When/if this happens, s2Member must process the transaction via IPN only (i.e. behind-the-scene), and the Customer must wait for Email Confirmation in these cases.',
+    2 => 'array (
+  \'s2member_paypal_return\' => \'1\',
+  \'s2member_paypal_return_tra\' => \'fnIyOnNqQXpyclFaMVBMcWRVMk1DaWpLZHRLMmJmSVVVNXhBOmVlYjZkZWEzYThjNzI2Y2NiNDBmOGM2NTgxNjUzZTNmfDsvDdAkcGFlWnLlL_UugHrxvKxrDhsQm2NjpPlLJt5gHW4WEhwrpiwah6_GEyBFqQa99pIPHqi6IRLoN3Vu6lwAszMK1yZhstacYOn4kyrNxmZIuOI_glPRQRqC9p0A5rplmNPE_kmPkqQA0Uyf2uF4qy6QfyNdvKMWukUXNU9JdLbqlM-5KYyN_Y2aXurW6BLR-rw6WHOqZ2mf07p9BDVllFPi2eUPTKGjrDDPWGhYNbvQr0liQZfyeOcfaP3p4ubVnSIQY1k1_PZBRd3hOf6t4O7kl7xT2fWH4QEC5NvuooWaEJSJnER2dy-xhcCk9QYoCfoFyWZqr5UZHydj1MbgsRB3R2K5ZYZJokmYpoinyQ8ZKs7mMBSYYW-XbYa7Fg\',
+  \'txn_type\' => \'subscr_signup\',
+  \'subscr_id\' => \'I-5EW7GTY69YW0\',
+  \'last_name\' => \'Hng\',
+  \'option_selection1\' => \'10\',
+  \'option_selection2\' => \'117.3.172.162\',
+  \'residence_country\' => \'US\',
+  \'mc_currency\' => \'USD\',
+  \'item_name\' => \'Bronze Member / description and pricing details here.\',
+  \'business\' => \'tonthathung.it@gmail.com\',
+  \'amount3\' => \'1.00\',
+  \'recurring\' => \'1\',
+  \'payer_status\' => \'verified\',
+  \'payer_email\' => \'buyer.testtingwp@gmail.com\',
+  \'first_name\' => \'tonthathungit\',
+  \'receiver_email\' => \'tonthathung.it@gmail.com\',
+  \'payer_id\' => \'66BBNUWK3GZ7Q\',
+  \'option_name1\' => \'Referencing Customer ID\',
+  \'invoice\' => \'5209e95b65338~117.3.172.162\',
+  \'option_name2\' => \'Customer IP Address\',
+  \'reattempt\' => \'1\',
+  \'item_number\' => \'1\',
+  \'subscr_date\' => \'01:08:28 Aug 13, 2013 PDT\',
+  \'custom\' => \'myjobodesk.com\',
+  \'charset\' => \'windows-1252\',
+  \'period3\' => \'1 M\',
+  \'mc_amount3\' => \'1.00\',
+  \'auth\' => \'AKG-nZw4pBNnptoh2clY8B6g4AyLzcvBSrfJtwkQ967roAyKrEXNgkHOE.o-10oGJGKSzOrkvcBGsbZI8OknZ9w\',
+  \'form_charset\' => \'UTF-8\',
+)',
+    3 => 'Redirecting Customer to the Home Page (after asking Customer to check their email).',
+  ),
+  's2member_paypal_return_tra' => 'fnIyOnNqQXpyclFaMVBMcWRVMk1DaWpLZHRLMmJmSVVVNXhBOmVlYjZkZWEzYThjNzI2Y2NiNDBmOGM2NTgxNjUzZTNmfDsvDdAkcGFlWnLlL_UugHrxvKxrDhsQm2NjpPlLJt5gHW4WEhwrpiwah6_GEyBFqQa99pIPHqi6IRLoN3Vu6lwAszMK1yZhstacYOn4kyrNxmZIuOI_glPRQRqC9p0A5rplmNPE_kmPkqQA0Uyf2uF4qy6QfyNdvKMWukUXNU9JdLbqlM-5KYyN_Y2aXurW6BLR-rw6WHOqZ2mf07p9BDVllFPi2eUPTKGjrDDPWGhYNbvQr0liQZfyeOcfaP3p4ubVnSIQY1k1_PZBRd3hOf6t4O7kl7xT2fWH4QEC5NvuooWaEJSJnER2dy-xhcCk9QYoCfoFyWZqr5UZHydj1MbgsRB3R2K5ZYZJokmYpoinyQ8ZKs7mMBSYYW-XbYa7Fg',
+)
+
+LOG ENTRY: Tue Aug 13th, 2013 @ precisely 9:09 am UTC
+PHP v5.4.16 :: WordPress® v3.5.2 :: s2Member® v130617
+Memory 16.12 MB :: Real Memory 16.75 MB :: Peak Memory 16.17 MB :: Real Peak Memory 16.75 MB
+myjobodesk.com/bcd/?s2member_paypal_return=1&s2member_paypal_return_tra=fnIyOmtOYlNHWW83aUxLcVNJYWxQRGliamNEbmVEdkJleUhMOjM2NzEzNmIwMWE5Zjk3OTNiNWE1NWJhNDBhOWQ1NDBlfKoWRO%2dKwQHtJw%2dWbFhjMxiEmBQDa4WgVGRkzMV8aJtRKfAvCrDx%5fkbgTe9IFMTvaUtlEwe3gPMU16bTz4Cbd6SLaKQEAwPhm8bGbxpPA4DyS4KKrBHc2r%5fJuPH0IAthjaYNClJ7lx88Ggv9m9jpSNQ4S1T9TBLYsdulHV6PF1qE5jcldRjCU5VTMVaP7%5fM5IZsGDH7xW%2djJLnbdnYAPXD7G%5fLatr76wRUzPkP6T9CKoBkGeljbmzinOcoRxZCwpIPg0zKARcdZKl2cLnOiDRkF8YTMzR%5fEyU2ZmyuZljgPPcYxhnNgAH4mYjg5cVATaWOyWt4nsZkLAk%2dHaO5GfjuPV2tz2CH%5fmxkqx2%2dmyel0YFF5SoVnlCwlS2OGgJLykmw
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.122 CoRom/27.0.1453.122 Safari/537.36
+array (
+  'subscr_gateway' => 'paypal',
+  's2member_log' => 
+  array (
+    0 => 'No Return-Data. Customer MUST wait for Email Confirmation.',
+    1 => 'Note. This can sometimes happen when/if you are offering an Initial/Trial Period. There are times when a Payment Gateway will NOT supply s2Member with any data immediately after checkout. When/if this happens, s2Member must process the transaction via IPN only (i.e. behind-the-scene), and the Customer must wait for Email Confirmation in these cases.',
+    2 => 'array (
+  \'s2member_paypal_return\' => \'1\',
+  \'s2member_paypal_return_tra\' => \'fnIyOmtOYlNHWW83aUxLcVNJYWxQRGliamNEbmVEdkJleUhMOjM2NzEzNmIwMWE5Zjk3OTNiNWE1NWJhNDBhOWQ1NDBlfKoWRO-KwQHtJw-WbFhjMxiEmBQDa4WgVGRkzMV8aJtRKfAvCrDx_kbgTe9IFMTvaUtlEwe3gPMU16bTz4Cbd6SLaKQEAwPhm8bGbxpPA4DyS4KKrBHc2r_JuPH0IAthjaYNClJ7lx88Ggv9m9jpSNQ4S1T9TBLYsdulHV6PF1qE5jcldRjCU5VTMVaP7_M5IZsGDH7xW-jJLnbdnYAPXD7G_Latr76wRUzPkP6T9CKoBkGeljbmzinOcoRxZCwpIPg0zKARcdZKl2cLnOiDRkF8YTMzR_EyU2ZmyuZljgPPcYxhnNgAH4mYjg5cVATaWOyWt4nsZkLAk-HaO5GfjuPV2tz2CH_mxkqx2-myel0YFF5SoVnlCwlS2OGgJLykmw\',
+  \'txn_type\' => \'subscr_signup\',
+  \'subscr_id\' => \'I-YU0J4GR0G4BG\',
+  \'last_name\' => \'hung\',
+  \'option_selection1\' => \'11\',
+  \'option_selection2\' => \'117.3.172.162\',
+  \'residence_country\' => \'US\',
+  \'mc_currency\' => \'USD\',
+  \'item_name\' => \'Description and pricing details here.\',
+  \'amount1\' => \'0.10\',
+  \'business\' => \'tonthathung.it@gmail.com\',
+  \'amount3\' => \'1.00\',
+  \'recurring\' => \'1\',
+  \'payer_status\' => \'verified\',
+  \'payer_email\' => \'hung.seller@gmail.com\',
+  \'first_name\' => \'tonthat\',
+  \'receiver_email\' => \'tonthathung.it@gmail.com\',
+  \'payer_id\' => \'N63V2PUBYXTLC\',
+  \'option_name1\' => \'Referencing Customer ID\',
+  \'invoice\' => \'5209f782cc0b8~117.3.172.162\',
+  \'option_name2\' => \'Customer IP Address\',
+  \'reattempt\' => \'1\',
+  \'item_number\' => \'1\',
+  \'subscr_date\' => \'02:09:07 Aug 13, 2013 PDT\',
+  \'custom\' => \'myjobodesk.com\',
+  \'charset\' => \'windows-1252\',
+  \'period1\' => \'1 D\',
+  \'mc_amount1\' => \'0.10\',
+  \'period3\' => \'1 M\',
+  \'mc_amount3\' => \'1.00\',
+  \'auth\' => \'ATfDv2JvWaX8W7ZwEez2xMFMpJ3.QV.NJH7j8u1BfV.gK0jgIypUh7mVD3lpG-NlZHIm2J8Q9B4-FmtBiB9H.ZQ\',
+  \'form_charset\' => \'UTF-8\',
+)',
+    3 => 'Redirecting Customer to the Home Page (after asking Customer to check their email).',
+  ),
+  's2member_paypal_return_tra' => 'fnIyOmtOYlNHWW83aUxLcVNJYWxQRGliamNEbmVEdkJleUhMOjM2NzEzNmIwMWE5Zjk3OTNiNWE1NWJhNDBhOWQ1NDBlfKoWRO-KwQHtJw-WbFhjMxiEmBQDa4WgVGRkzMV8aJtRKfAvCrDx_kbgTe9IFMTvaUtlEwe3gPMU16bTz4Cbd6SLaKQEAwPhm8bGbxpPA4DyS4KKrBHc2r_JuPH0IAthjaYNClJ7lx88Ggv9m9jpSNQ4S1T9TBLYsdulHV6PF1qE5jcldRjCU5VTMVaP7_M5IZsGDH7xW-jJLnbdnYAPXD7G_Latr76wRUzPkP6T9CKoBkGeljbmzinOcoRxZCwpIPg0zKARcdZKl2cLnOiDRkF8YTMzR_EyU2ZmyuZljgPPcYxhnNgAH4mYjg5cVATaWOyWt4nsZkLAk-HaO5GfjuPV2tz2CH_mxkqx2-myel0YFF5SoVnlCwlS2OGgJLykmw',
+)
+
+LOG ENTRY: Wed Aug 14th, 2013 @ precisely 1:29 am UTC
+PHP v5.4.16 :: WordPress® v3.5.2 :: s2Member® v130617
+Memory 16.12 MB :: Real Memory 16.75 MB :: Peak Memory 16.17 MB :: Real Peak Memory 16.75 MB
+myjobodesk.com/bcd/?s2member_paypal_return=1&s2member_paypal_return_tra=fnIyOmZnUzlSRGdkTzBZc25qWTBpcHNoQ3hLR0RPWnJzcUJjOjgwOGU0MDkzNjhhMDk1MDM1ZTIyMWQ3N2VlOTg3Mzk3fDM7gVb%5fxuDE5%5fI5Mj%5fqAbt5W6LT%5fORmgABlAOaxDZCqCaztGMgRvMvrRPSrsWsXhFsZE92Z0uIB6T9vgn4wYXQCCoKSght%2dBBd1MX%5fH%2d8BfQY49QC7R5x5jU5LeiljArQSQiH9Mldcd4gxLT%5fu%2dbAKuLDZYwk5tzlKSPAj06hX%2dhLxeN9NMj9cUVUU%5fGzVoXqHqttEumo%5fYxh2%2dKTrJByb8zeqRlY1EDf8NRC5SVZiHXcbUXmZZ7YIPk6FWxj%5fb%2dhF7%2dt9mZJuEdRWZuHUADGninyUKBTApVgzMDVnMZqIPakhSDKUKi3aiWbX3FLGj%2dDSAsZH%5fopr4D5X3%2dOWdvly8JEzV1VCvTuUvReOrXdyHg9wjIRTg1AOmjq7k%2dS2hxg
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 Safari/537.36
+array (
+  'subscr_gateway' => 'paypal',
+  's2member_log' => 
+  array (
+    0 => 'No Return-Data. Customer MUST wait for Email Confirmation.',
+    1 => 'Note. This can sometimes happen when/if you are offering an Initial/Trial Period. There are times when a Payment Gateway will NOT supply s2Member with any data immediately after checkout. When/if this happens, s2Member must process the transaction via IPN only (i.e. behind-the-scene), and the Customer must wait for Email Confirmation in these cases.',
+    2 => 'array (
+  \'s2member_paypal_return\' => \'1\',
+  \'s2member_paypal_return_tra\' => \'fnIyOmZnUzlSRGdkTzBZc25qWTBpcHNoQ3hLR0RPWnJzcUJjOjgwOGU0MDkzNjhhMDk1MDM1ZTIyMWQ3N2VlOTg3Mzk3fDM7gVb_xuDE5_I5Mj_qAbt5W6LT_ORmgABlAOaxDZCqCaztGMgRvMvrRPSrsWsXhFsZE92Z0uIB6T9vgn4wYXQCCoKSght-BBd1MX_H-8BfQY49QC7R5x5jU5LeiljArQSQiH9Mldcd4gxLT_u-bAKuLDZYwk5tzlKSPAj06hX-hLxeN9NMj9cUVUU_GzVoXqHqttEumo_Yxh2-KTrJByb8zeqRlY1EDf8NRC5SVZiHXcbUXmZZ7YIPk6FWxj_b-hF7-t9mZJuEdRWZuHUADGninyUKBTApVgzMDVnMZqIPakhSDKUKi3aiWbX3FLGj-DSAsZH_opr4D5X3-OWdvly8JEzV1VCvTuUvReOrXdyHg9wjIRTg1AOmjq7k-S2hxg\',
+  \'txn_type\' => \'subscr_signup\',
+  \'subscr_id\' => \'I-JTV402LHFCYJ\',
+  \'last_name\' => \'hung\',
+  \'option_selection1\' => \'12\',
+  \'option_selection2\' => \'117.3.166.151\',
+  \'residence_country\' => \'US\',
+  \'mc_currency\' => \'USD\',
+  \'item_name\' => \'Description and pricing details here.\',
+  \'amount1\' => \'0.10\',
+  \'business\' => \'tonthathung.it@gmail.com\',
+  \'amount3\' => \'3.00\',
+  \'recurring\' => \'1\',
+  \'payer_status\' => \'verified\',
+  \'payer_email\' => \'hung.it1@gmail.com\',
+  \'first_name\' => \'ton that\',
+  \'receiver_email\' => \'tonthathung.it@gmail.com\',
+  \'payer_id\' => \'C9QSJBET4XX98\',
+  \'option_name1\' => \'Referencing Customer ID\',
+  \'invoice\' => \'520adcb089d05~117.3.166.151\',
+  \'option_name2\' => \'Customer IP Address\',
+  \'reattempt\' => \'1\',
+  \'item_number\' => \'2\',
+  \'subscr_date\' => \'18:29:35 Aug 13, 2013 PDT\',
+  \'custom\' => \'myjobodesk.com\',
+  \'charset\' => \'windows-1252\',
+  \'period1\' => \'1 D\',
+  \'mc_amount1\' => \'0.10\',
+  \'period3\' => \'1 M\',
+  \'mc_amount3\' => \'3.00\',
+  \'auth\' => \'Alhkl1cg3xkzBn4voVPRLbc4bQu-fiWlUdY71FZUkImZ0O86C2GXQ5qqjWEhyVfvc.Ca6TBueem4KnHwOnopLBg\',
+  \'form_charset\' => \'UTF-8\',
+)',
+    3 => 'Redirecting Customer to the Home Page (after asking Customer to check their email).',
+  ),
+  's2member_paypal_return_tra' => 'fnIyOmZnUzlSRGdkTzBZc25qWTBpcHNoQ3hLR0RPWnJzcUJjOjgwOGU0MDkzNjhhMDk1MDM1ZTIyMWQ3N2VlOTg3Mzk3fDM7gVb_xuDE5_I5Mj_qAbt5W6LT_ORmgABlAOaxDZCqCaztGMgRvMvrRPSrsWsXhFsZE92Z0uIB6T9vgn4wYXQCCoKSght-BBd1MX_H-8BfQY49QC7R5x5jU5LeiljArQSQiH9Mldcd4gxLT_u-bAKuLDZYwk5tzlKSPAj06hX-hLxeN9NMj9cUVUU_GzVoXqHqttEumo_Yxh2-KTrJByb8zeqRlY1EDf8NRC5SVZiHXcbUXmZZ7YIPk6FWxj_b-hF7-t9mZJuEdRWZuHUADGninyUKBTApVgzMDVnMZqIPakhSDKUKi3aiWbX3FLGj-DSAsZH_opr4D5X3-OWdvly8JEzV1VCvTuUvReOrXdyHg9wjIRTg1AOmjq7k-S2hxg',
+)
+
+LOG ENTRY: Wed Aug 14th, 2013 @ precisely 2:14 am UTC
+PHP v5.4.16 :: WordPress® v3.5.2 :: s2Member® v130617
+Memory 16.10 MB :: Real Memory 16.75 MB :: Peak Memory 16.16 MB :: Real Peak Memory 16.75 MB
+myjobodesk.com/bcd/?s2member_paypal_return=1&s2member_paypal_return_tra=fnIyOmxKVWo0b2lWNXhKZ0RacTNycndiY1NIUmE4MkNuSnhQOjFiYmZhYWI1ZTRkYzEyNzVhNmFlNDUzZTk4MjUyMTQxfBVKpm0jObl0GeDw%5ffQMki91TJjzsrNNfk8l9evxPy94O1LnhoYMe6Tg4LvMV8CKAu5hE4mVQMWR4wyTBcJyiQ%5f24fqlQGuGdD6A9eVCU2%2dQXywGR0kCt7N56%2duyP3S7BCKXz78tiQ%2dV4w6pvs7WtglPVCkHblm6EDM3Zfw%5fs4uoRO6mrgs8Gbpykap3gv1yJ1vPqHZBg%2dXE5LefeSefoVyBcV%2dODNd0Ly4bnTWsFN3Cflmg2gAOPpZy%2djQ4JfJfRHgfflnY73B%2dAEIHGbteYgjLOQAm1QNLsLGOKWLyefMCIP5vYgQCZDPZpos%2dQLQakJx4cXzjfwCxMARtd8%5fRhlWq2pyEZgBwQ9AWqNhvXkfoay2gnZzLSeGIFW5yxXgB7Q
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 Safari/537.36
+array (
+  'subscr_gateway' => 'paypal',
+  's2member_log' => 
+  array (
+    0 => 'No Return-Data. Customer MUST wait for Email Confirmation.',
+    1 => 'Note. This can sometimes happen when/if you are offering an Initial/Trial Period. There are times when a Payment Gateway will NOT supply s2Member with any data immediately after checkout. When/if this happens, s2Member must process the transaction via IPN only (i.e. behind-the-scene), and the Customer must wait for Email Confirmation in these cases.',
+    2 => 'array (
+  \'s2member_paypal_return\' => \'1\',
+  \'s2member_paypal_return_tra\' => \'fnIyOmxKVWo0b2lWNXhKZ0RacTNycndiY1NIUmE4MkNuSnhQOjFiYmZhYWI1ZTRkYzEyNzVhNmFlNDUzZTk4MjUyMTQxfBVKpm0jObl0GeDw_fQMki91TJjzsrNNfk8l9evxPy94O1LnhoYMe6Tg4LvMV8CKAu5hE4mVQMWR4wyTBcJyiQ_24fqlQGuGdD6A9eVCU2-QXywGR0kCt7N56-uyP3S7BCKXz78tiQ-V4w6pvs7WtglPVCkHblm6EDM3Zfw_s4uoRO6mrgs8Gbpykap3gv1yJ1vPqHZBg-XE5LefeSefoVyBcV-ODNd0Ly4bnTWsFN3Cflmg2gAOPpZy-jQ4JfJfRHgfflnY73B-AEIHGbteYgjLOQAm1QNLsLGOKWLyefMCIP5vYgQCZDPZpos-QLQakJx4cXzjfwCxMARtd8_RhlWq2pyEZgBwQ9AWqNhvXkfoay2gnZzLSeGIFW5yxXgB7Q\',
+  \'txn_type\' => \'subscr_signup\',
+  \'subscr_id\' => \'I-KJ7VSJSC1P11\',
+  \'last_name\' => \'hung\',
+  \'option_selection1\' => \'myjobodesk.com\',
+  \'option_selection2\' => \'117.3.166.151\',
+  \'residence_country\' => \'US\',
+  \'mc_currency\' => \'USD\',
+  \'item_name\' => \'Bronze Member / description and pricing details here.\',
+  \'amount1\' => \'0.10\',
+  \'business\' => \'tonthathung.it@gmail.com\',
+  \'amount3\' => \'1.00\',
+  \'recurring\' => \'1\',
+  \'payer_status\' => \'verified\',
+  \'payer_email\' => \'hung.it2@gmail.com\',
+  \'first_name\' => \'ton that\',
+  \'receiver_email\' => \'tonthathung.it@gmail.com\',
+  \'payer_id\' => \'9RLPBU3CHASZQ\',
+  \'option_name1\' => \'Originating Domain\',
+  \'invoice\' => \'520ae785766df~117.3.166.151\',
+  \'option_name2\' => \'Customer IP Address\',
+  \'reattempt\' => \'1\',
+  \'item_number\' => \'1\',
+  \'subscr_date\' => \'19:14:40 Aug 13, 2013 PDT\',
+  \'custom\' => \'myjobodesk.com\',
+  \'charset\' => \'windows-1252\',
+  \'period1\' => \'1 D\',
+  \'mc_amount1\' => \'0.10\',
+  \'period3\' => \'1 M\',
+  \'mc_amount3\' => \'1.00\',
+  \'auth\' => \'A.fbUT7qgFfkUsMdTlBqn2MiCYbSL18ePf8pWBgU6aZsQXDw-qiLXkOhNAZ6PoME5SW.yeTeM4KjRF07SZ4h1NQ\',
+  \'form_charset\' => \'UTF-8\',
+)',
+    3 => 'Redirecting Customer to the Home Page (after asking Customer to check their email).',
+  ),
+  's2member_paypal_return_tra' => 'fnIyOmxKVWo0b2lWNXhKZ0RacTNycndiY1NIUmE4MkNuSnhQOjFiYmZhYWI1ZTRkYzEyNzVhNmFlNDUzZTk4MjUyMTQxfBVKpm0jObl0GeDw_fQMki91TJjzsrNNfk8l9evxPy94O1LnhoYMe6Tg4LvMV8CKAu5hE4mVQMWR4wyTBcJyiQ_24fqlQGuGdD6A9eVCU2-QXywGR0kCt7N56-uyP3S7BCKXz78tiQ-V4w6pvs7WtglPVCkHblm6EDM3Zfw_s4uoRO6mrgs8Gbpykap3gv1yJ1vPqHZBg-XE5LefeSefoVyBcV-ODNd0Ly4bnTWsFN3Cflmg2gAOPpZy-jQ4JfJfRHgfflnY73B-AEIHGbteYgjLOQAm1QNLsLGOKWLyefMCIP5vYgQCZDPZpos-QLQakJx4cXzjfwCxMARtd8_RhlWq2pyEZgBwQ9AWqNhvXkfoay2gnZzLSeGIFW5yxXgB7Q',
+)
+
+LOG ENTRY: Wed Aug 14th, 2013 @ precisely 2:25 am UTC
+PHP v5.4.16 :: WordPress® v3.5.2 :: s2Member® v130617
+Memory 16.10 MB :: Real Memory 16.75 MB :: Peak Memory 16.16 MB :: Real Peak Memory 16.75 MB
+myjobodesk.com/bcd/?s2member_paypal_return=1&s2member_paypal_return_tra=fnIyOkVRT09pV1Z6cFBSRlhTOHhNU1VUSjVjU2JEOWR1NVlyOjJlOGUxZTkzMWNjZTUyMjIwNjYzYjVhNmQ4NDExODkzfP8%5fnwRJK7gTBaXFQvYa%5f7PNQbbT4mZCjLTrkzinXnUFBUipfx1f795tmPPwNr97uCLsuh3Hc3arhApYHDDDR5S2flNJvN3yN7B%2dckmbgscgXjLO6NKCByYVj6vpt74M26uhIfycxoZ6r%5fs1dn74LpUyxFqmxE5APAKFkdnXkxbczaQeqTB%2dTJ9J62iFsK8Q%5fD0Q7fsaUlY%2doI195TEl5OrenG%5f0VhbcKf%5fBJDk6%2d%5fkfA%2dxtUyUEWvqgcy2Hmoy%5fWueyflDPxlAMlkPlYM7JBwGyMBcRqD%5f9yxfmsoUPADVyvgRriPvqEgBxq2afCBRduWPmz7wnchl9%2dVlqcjqFpO%5ftgfrvigMgqSDGj4rtayuEtdj1gskDGatqOVO1DE98Vw
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 Safari/537.36
+array (
+  'subscr_gateway' => 'paypal',
+  's2member_log' => 
+  array (
+    0 => 'No Return-Data. Customer MUST wait for Email Confirmation.',
+    1 => 'Note. This can sometimes happen when/if you are offering an Initial/Trial Period. There are times when a Payment Gateway will NOT supply s2Member with any data immediately after checkout. When/if this happens, s2Member must process the transaction via IPN only (i.e. behind-the-scene), and the Customer must wait for Email Confirmation in these cases.',
+    2 => 'array (
+  \'s2member_paypal_return\' => \'1\',
+  \'s2member_paypal_return_tra\' => \'fnIyOkVRT09pV1Z6cFBSRlhTOHhNU1VUSjVjU2JEOWR1NVlyOjJlOGUxZTkzMWNjZTUyMjIwNjYzYjVhNmQ4NDExODkzfP8_nwRJK7gTBaXFQvYa_7PNQbbT4mZCjLTrkzinXnUFBUipfx1f795tmPPwNr97uCLsuh3Hc3arhApYHDDDR5S2flNJvN3yN7B-ckmbgscgXjLO6NKCByYVj6vpt74M26uhIfycxoZ6r_s1dn74LpUyxFqmxE5APAKFkdnXkxbczaQeqTB-TJ9J62iFsK8Q_D0Q7fsaUlY-oI195TEl5OrenG_0VhbcKf_BJDk6-_kfA-xtUyUEWvqgcy2Hmoy_WueyflDPxlAMlkPlYM7JBwGyMBcRqD_9yxfmsoUPADVyvgRriPvqEgBxq2afCBRduWPmz7wnchl9-VlqcjqFpO_tgfrvigMgqSDGj4rtayuEtdj1gskDGatqOVO1DE98Vw\',
+  \'txn_type\' => \'subscr_signup\',
+  \'subscr_id\' => \'I-9UFK0JYNT3X3\',
+  \'last_name\' => \'hung\',
+  \'option_selection1\' => \'myjobodesk.com\',
+  \'option_selection2\' => \'117.3.166.151\',
+  \'residence_country\' => \'US\',
+  \'mc_currency\' => \'USD\',
+  \'item_name\' => \'Platinum Member / description and pricing details here.\',
+  \'amount1\' => \'0.10\',
+  \'business\' => \'tonthathung.it@gmail.com\',
+  \'amount3\' => \'4.00\',
+  \'recurring\' => \'1\',
+  \'payer_status\' => \'verified\',
+  \'payer_email\' => \'hung.it2@gmail.com\',
+  \'first_name\' => \'ton that\',
+  \'receiver_email\' => \'tonthathung.it@gmail.com\',
+  \'payer_id\' => \'9RLPBU3CHASZQ\',
+  \'option_name1\' => \'Originating Domain\',
+  \'invoice\' => \'520aea51f07ec~117.3.166.151\',
+  \'option_name2\' => \'Customer IP Address\',
+  \'reattempt\' => \'1\',
+  \'item_number\' => \'4\',
+  \'subscr_date\' => \'19:25:46 Aug 13, 2013 PDT\',
+  \'custom\' => \'myjobodesk.com\',
+  \'charset\' => \'windows-1252\',
+  \'period1\' => \'1 D\',
+  \'mc_amount1\' => \'0.10\',
+  \'period3\' => \'1 M\',
+  \'mc_amount3\' => \'4.00\',
+  \'auth\' => \'AeT3Whvu267qmfduh4sGKwhay3sxs9yrMtPFvxla8Ecw404fCBx4B8L5nmqJBeHcEejp4pVpbomtdnUhQdclG.w\',
+  \'form_charset\' => \'UTF-8\',
+)',
+    3 => 'Redirecting Customer to the Home Page (after asking Customer to check their email).',
+  ),
+  's2member_paypal_return_tra' => 'fnIyOkVRT09pV1Z6cFBSRlhTOHhNU1VUSjVjU2JEOWR1NVlyOjJlOGUxZTkzMWNjZTUyMjIwNjYzYjVhNmQ4NDExODkzfP8_nwRJK7gTBaXFQvYa_7PNQbbT4mZCjLTrkzinXnUFBUipfx1f795tmPPwNr97uCLsuh3Hc3arhApYHDDDR5S2flNJvN3yN7B-ckmbgscgXjLO6NKCByYVj6vpt74M26uhIfycxoZ6r_s1dn74LpUyxFqmxE5APAKFkdnXkxbczaQeqTB-TJ9J62iFsK8Q_D0Q7fsaUlY-oI195TEl5OrenG_0VhbcKf_BJDk6-_kfA-xtUyUEWvqgcy2Hmoy_WueyflDPxlAMlkPlYM7JBwGyMBcRqD_9yxfmsoUPADVyvgRriPvqEgBxq2afCBRduWPmz7wnchl9-VlqcjqFpO_tgfrvigMgqSDGj4rtayuEtdj1gskDGatqOVO1DE98Vw',
+)
+
+LOG ENTRY: Fri Aug 16th, 2013 @ precisely 2:37 am UTC
+PHP v5.4.16 :: WordPress® v3.5.2 :: s2Member® v130617
+Memory 16.95 MB :: Real Memory 17.50 MB :: Peak Memory 17.00 MB :: Real Peak Memory 17.50 MB
+myjobodesk.com/bcd/?s2member_paypal_return=1&s2member_paypal_return_tra=fnIyOjZhTkhVR2t4bzBCOVN3R01jbDU2ZHpMOWZyUU90cmtGOjMwYWQxMjA4MGY0ZWExZGEzOTE1NTVjZWFjYjM2ZDYwfCSy7E%2dtZ%5fn38Rsd7QLh5%5f7PwA8I1NOkRmC5QA0aFgyrhPmrn6zEjSfQxZWc%2dhcnZHzcArpGYo5hVJG69R3256Yo9i7p5JmpodFFvckr0fLyWiHf5maeddsD1VmnD2tLpsqdhlKDBH1EpawYTGV%2dpXR6FGeAehZLX6NYdCrs0eT1K4STU5%2dPENlR3KL1OiWGPfJIsPAHAkkr%2dIz3mVr2eh1i%2df5eubOAscyjV0cAYC1uHWET7Lldligvu1gHH2FThYoI9wnsuEjPoRY58cV1Nr4qrSKaYEiwjTJW5NDVyJf35gWaP3Gfo8MeisMVrZvCq9o5ASMd%5f9ntzrDT1uKGimObxYRomxqgcE1u3u6TdnUPl3UXp2iF5JoSVw111Qvxdw
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 Safari/537.36
+array (
+  'subscr_gateway' => 'paypal',
+  's2member_log' => 
+  array (
+    0 => 'No Return-Data. Customer MUST wait for Email Confirmation.',
+    1 => 'Note. This can sometimes happen when/if you are offering an Initial/Trial Period. There are times when a Payment Gateway will NOT supply s2Member with any data immediately after checkout. When/if this happens, s2Member must process the transaction via IPN only (i.e. behind-the-scene), and the Customer must wait for Email Confirmation in these cases.',
+    2 => 'array (
+  \'s2member_paypal_return\' => \'1\',
+  \'s2member_paypal_return_tra\' => \'fnIyOjZhTkhVR2t4bzBCOVN3R01jbDU2ZHpMOWZyUU90cmtGOjMwYWQxMjA4MGY0ZWExZGEzOTE1NTVjZWFjYjM2ZDYwfCSy7E-tZ_n38Rsd7QLh5_7PwA8I1NOkRmC5QA0aFgyrhPmrn6zEjSfQxZWc-hcnZHzcArpGYo5hVJG69R3256Yo9i7p5JmpodFFvckr0fLyWiHf5maeddsD1VmnD2tLpsqdhlKDBH1EpawYTGV-pXR6FGeAehZLX6NYdCrs0eT1K4STU5-PENlR3KL1OiWGPfJIsPAHAkkr-Iz3mVr2eh1i-f5eubOAscyjV0cAYC1uHWET7Lldligvu1gHH2FThYoI9wnsuEjPoRY58cV1Nr4qrSKaYEiwjTJW5NDVyJf35gWaP3Gfo8MeisMVrZvCq9o5ASMd_9ntzrDT1uKGimObxYRomxqgcE1u3u6TdnUPl3UXp2iF5JoSVw111Qvxdw\',
+  \'txn_type\' => \'subscr_signup\',
+  \'subscr_id\' => \'I-2S11YC2LRVSK\',
+  \'last_name\' => \'hung\',
+  \'option_selection1\' => \'myjobodesk.com\',
+  \'option_selection2\' => \'117.3.168.206\',
+  \'residence_country\' => \'US\',
+  \'mc_currency\' => \'USD\',
+  \'item_name\' => \'Level 6 Member Ship\',
+  \'amount1\' => \'0.10\',
+  \'business\' => \'tonthathung.it@gmail.com\',
+  \'amount3\' => \'6.00\',
+  \'recurring\' => \'1\',
+  \'payer_status\' => \'verified\',
+  \'payer_email\' => \'hung.hung@gmail.com\',
+  \'first_name\' => \'ton that\',
+  \'receiver_email\' => \'tonthathung.it@gmail.com\',
+  \'payer_id\' => \'NFCDCX9AFA332\',
+  \'option_name1\' => \'Originating Domain\',
+  \'invoice\' => \'520d9001cc1a6~117.3.168.206\',
+  \'option_name2\' => \'Customer IP Address\',
+  \'reattempt\' => \'1\',
+  \'item_number\' => \'6\',
+  \'subscr_date\' => \'19:38:05 Aug 15, 2013 PDT\',
+  \'custom\' => \'myjobodesk.com\',
+  \'charset\' => \'windows-1252\',
+  \'period1\' => \'1 D\',
+  \'mc_amount1\' => \'0.10\',
+  \'period3\' => \'1 M\',
+  \'mc_amount3\' => \'6.00\',
+  \'auth\' => \'AfBYc1vasuU-DgoDZ884BcqdHjpyU057i1dfXoIGak1vFZn00.FOHzovnCXdIDYo6HTUZiI975EoCvW2zOKEHtA\',
+  \'form_charset\' => \'UTF-8\',
+)',
+    3 => 'Redirecting Customer to the Home Page (after asking Customer to check their email).',
+  ),
+  's2member_paypal_return_tra' => 'fnIyOjZhTkhVR2t4bzBCOVN3R01jbDU2ZHpMOWZyUU90cmtGOjMwYWQxMjA4MGY0ZWExZGEzOTE1NTVjZWFjYjM2ZDYwfCSy7E-tZ_n38Rsd7QLh5_7PwA8I1NOkRmC5QA0aFgyrhPmrn6zEjSfQxZWc-hcnZHzcArpGYo5hVJG69R3256Yo9i7p5JmpodFFvckr0fLyWiHf5maeddsD1VmnD2tLpsqdhlKDBH1EpawYTGV-pXR6FGeAehZLX6NYdCrs0eT1K4STU5-PENlR3KL1OiWGPfJIsPAHAkkr-Iz3mVr2eh1i-f5eubOAscyjV0cAYC1uHWET7Lldligvu1gHH2FThYoI9wnsuEjPoRY58cV1Nr4qrSKaYEiwjTJW5NDVyJf35gWaP3Gfo8MeisMVrZvCq9o5ASMd_9ntzrDT1uKGimObxYRomxqgcE1u3u6TdnUPl3UXp2iF5JoSVw111Qvxdw',
+)
+
+LOG ENTRY: Fri Aug 16th, 2013 @ precisely 2:43 am UTC
+PHP v5.4.16 :: WordPress® v3.5.2 :: s2Member® v130617
+Memory 16.97 MB :: Real Memory 17.75 MB :: Peak Memory 17.02 MB :: Real Peak Memory 17.75 MB
+myjobodesk.com/bcd/?s2member_paypal_return=1&s2member_paypal_return_tra=fnIyOjhBOU5Dc254enQxbkF6bldTaG8zcVFMYU1OZjF3TkZ0OmQxZTAyZDMzODljYzljMzNiNmExNWY0MmFiZDY5ZDdifIdzKSOLKAsJlu%5fpt3ii5dxjkN%2dTr26VLMrsojdi9hy8hvjrYg3CmoJxtWa1zY7kzHggCsKpJmJnwwXyYeJf74ZesHbKBwxuAcMmGLqB5zwbbTBvzYscAvieQ205ihfhG21VlPOsLqITKZI2pXU%2deVdkU8odyZArg93RS92DnGcCRvRYERcOqQiqVkQ8m%2d4xoOyn9Wvytjt9tpPfl2n4lZks%2dxuZZRtgOrLeIjcj5k6A9wYjf31fv12WBSVB%2do6xN5n5o2459winkLdy3pGtG%2d4qDevkN8p4AajmVLCH4jPv4CE%2dPT4AWpynWqtWLo5mHspuO6y6GONJI7AguxVCbIXvUVkRZYJoyekNLjjXTU228lJswEtGUTcIa7e7p0Naqw
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 Safari/537.36
+array (
+  'subscr_gateway' => 'paypal',
+  's2member_log' => 
+  array (
+    0 => 'No Return-Data. Customer MUST wait for Email Confirmation.',
+    1 => 'Note. This can sometimes happen when/if you are offering an Initial/Trial Period. There are times when a Payment Gateway will NOT supply s2Member with any data immediately after checkout. When/if this happens, s2Member must process the transaction via IPN only (i.e. behind-the-scene), and the Customer must wait for Email Confirmation in these cases.',
+    2 => 'array (
+  \'s2member_paypal_return\' => \'1\',
+  \'s2member_paypal_return_tra\' => \'fnIyOjhBOU5Dc254enQxbkF6bldTaG8zcVFMYU1OZjF3TkZ0OmQxZTAyZDMzODljYzljMzNiNmExNWY0MmFiZDY5ZDdifIdzKSOLKAsJlu_pt3ii5dxjkN-Tr26VLMrsojdi9hy8hvjrYg3CmoJxtWa1zY7kzHggCsKpJmJnwwXyYeJf74ZesHbKBwxuAcMmGLqB5zwbbTBvzYscAvieQ205ihfhG21VlPOsLqITKZI2pXU-eVdkU8odyZArg93RS92DnGcCRvRYERcOqQiqVkQ8m-4xoOyn9Wvytjt9tpPfl2n4lZks-xuZZRtgOrLeIjcj5k6A9wYjf31fv12WBSVB-o6xN5n5o2459winkLdy3pGtG-4qDevkN8p4AajmVLCH4jPv4CE-PT4AWpynWqtWLo5mHspuO6y6GONJI7AguxVCbIXvUVkRZYJoyekNLjjXTU228lJswEtGUTcIa7e7p0Naqw\',
+  \'txn_type\' => \'subscr_signup\',
+  \'subscr_id\' => \'I-K1VWSBNC1VG0\',
+  \'last_name\' => \'hung\',
+  \'option_selection1\' => \'13\',
+  \'option_selection2\' => \'117.3.168.206\',
+  \'residence_country\' => \'US\',
+  \'mc_currency\' => \'USD\',
+  \'item_name\' => \'Level 6 Member Ship\',
+  \'amount1\' => \'0.10\',
+  \'business\' => \'tonthathung.it@gmail.com\',
+  \'amount3\' => \'6.00\',
+  \'recurring\' => \'1\',
+  \'payer_status\' => \'verified\',
+  \'payer_email\' => \'hung.hung@gmail.com\',
+  \'first_name\' => \'ton that\',
+  \'receiver_email\' => \'tonthathung.it@gmail.com\',
+  \'payer_id\' => \'NFCDCX9AFA332\',
+  \'option_name1\' => \'Referencing Customer ID\',
+  \'invoice\' => \'520d91cbc0acf~117.3.168.206\',
+  \'option_name2\' => \'Customer IP Address\',
+  \'reattempt\' => \'1\',
+  \'item_number\' => \'6\',
+  \'subscr_date\' => \'19:44:03 Aug 15, 2013 PDT\',
+  \'custom\' => \'myjobodesk.com\',
+  \'charset\' => \'windows-1252\',
+  \'period1\' => \'1 D\',
+  \'mc_amount1\' => \'0.10\',
+  \'period3\' => \'1 M\',
+  \'mc_amount3\' => \'6.00\',
+  \'auth\' => \'AGR9j4u0iBHsjcD8mMesE4pM-vB0diWcfnMTZibKjhcoUM4DJC7-SPn.urIyZHRk3owd3Aae0-iDdcEzMbDTbjA\',
+  \'form_charset\' => \'UTF-8\',
+)',
+    3 => 'Redirecting Customer to the Home Page (after asking Customer to check their email).',
+  ),
+  's2member_paypal_return_tra' => 'fnIyOjhBOU5Dc254enQxbkF6bldTaG8zcVFMYU1OZjF3TkZ0OmQxZTAyZDMzODljYzljMzNiNmExNWY0MmFiZDY5ZDdifIdzKSOLKAsJlu_pt3ii5dxjkN-Tr26VLMrsojdi9hy8hvjrYg3CmoJxtWa1zY7kzHggCsKpJmJnwwXyYeJf74ZesHbKBwxuAcMmGLqB5zwbbTBvzYscAvieQ205ihfhG21VlPOsLqITKZI2pXU-eVdkU8odyZArg93RS92DnGcCRvRYERcOqQiqVkQ8m-4xoOyn9Wvytjt9tpPfl2n4lZks-xuZZRtgOrLeIjcj5k6A9wYjf31fv12WBSVB-o6xN5n5o2459winkLdy3pGtG-4qDevkN8p4AajmVLCH4jPv4CE-PT4AWpynWqtWLo5mHspuO6y6GONJI7AguxVCbIXvUVkRZYJoyekNLjjXTU228lJswEtGUTcIa7e7p0Naqw',
+)
+
+LOG ENTRY: Fri Aug 16th, 2013 @ precisely 3:30 am UTC
+PHP v5.4.16 :: WordPress® v3.5.2 :: s2Member® v130617
+Memory 17.00 MB :: Real Memory 17.25 MB :: Peak Memory 17.06 MB :: Real Peak Memory 17.25 MB
+myjobodesk.com/bcd/?s2member_paypal_return=1&s2member_paypal_return_tra=fnIyOlBOS2R3WG1YVHBlNDVHYWtJUjl1UlhjMXc0a0ZEOTJuOjNlNGEzYjdkZmQ2MjllMzI0NDdlYjg5YWQ2MTQ1ZGI1fIkbmMyBTCYmCapPxngxZf4Vf2weCeoez%2dFYuYh4AUYLm12m5WPXT5MTwWOqPOStZwpMVcrQ2mWyfD8bcXQ7kj2P%2dawme2XEhwVcJKYwV8QFsrW6NeHqAeZlSPvfRjcOZjU8iZnnQtEuPBOH18vCMwSeolE2A3PYQkfi30nacR9m6uoDp6WHpKZctqa2FWqg6UyNIRcbCbNyiudn0XLkV1g%2dSlMH1d%2d1XwGmLzfUTFb6SV9Ke%5fwBoMXE88Y1MxwHmj3wfr1gkPNPhSPfH8tSq2zvz438Pp7uvnxcoNQvJKGHSfZ7MhacXyQbT8LhZ8yWpRgZ6H%2dX6OIlh%5fh99JAwBi%5frRHISGGM6rARrjMsVik%2dZ62Ah9IH04ltoThp5oLCdWQ
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 Safari/537.36
+array (
+  'subscr_gateway' => 'paypal',
+  's2member_log' => 
+  array (
+    0 => 'No Return-Data. Customer MUST wait for Email Confirmation.',
+    1 => 'Note. This can sometimes happen when/if you are offering an Initial/Trial Period. There are times when a Payment Gateway will NOT supply s2Member with any data immediately after checkout. When/if this happens, s2Member must process the transaction via IPN only (i.e. behind-the-scene), and the Customer must wait for Email Confirmation in these cases.',
+    2 => 'array (
+  \'s2member_paypal_return\' => \'1\',
+  \'s2member_paypal_return_tra\' => \'fnIyOlBOS2R3WG1YVHBlNDVHYWtJUjl1UlhjMXc0a0ZEOTJuOjNlNGEzYjdkZmQ2MjllMzI0NDdlYjg5YWQ2MTQ1ZGI1fIkbmMyBTCYmCapPxngxZf4Vf2weCeoez-FYuYh4AUYLm12m5WPXT5MTwWOqPOStZwpMVcrQ2mWyfD8bcXQ7kj2P-awme2XEhwVcJKYwV8QFsrW6NeHqAeZlSPvfRjcOZjU8iZnnQtEuPBOH18vCMwSeolE2A3PYQkfi30nacR9m6uoDp6WHpKZctqa2FWqg6UyNIRcbCbNyiudn0XLkV1g-SlMH1d-1XwGmLzfUTFb6SV9Ke_wBoMXE88Y1MxwHmj3wfr1gkPNPhSPfH8tSq2zvz438Pp7uvnxcoNQvJKGHSfZ7MhacXyQbT8LhZ8yWpRgZ6H-X6OIlh_h99JAwBi_rRHISGGM6rARrjMsVik-Z62Ah9IH04ltoThp5oLCdWQ\',
+  \'txn_type\' => \'subscr_signup\',
+  \'subscr_id\' => \'I-BUPR25GA2JNK\',
+  \'last_name\' => \'hung\',
+  \'option_selection1\' => \'I-K1VWSBNC1VG0\',
+  \'option_selection2\' => \'117.3.168.206\',
+  \'residence_country\' => \'US\',
+  \'mc_currency\' => \'USD\',
+  \'item_name\' => \'Level 4 Member Ship\',
+  \'amount1\' => \'0.10\',
+  \'business\' => \'tonthathung.it@gmail.com\',
+  \'amount3\' => \'4.00\',
+  \'recurring\' => \'1\',
+  \'payer_status\' => \'verified\',
+  \'payer_email\' => \'hung.hung1@gmail.com\',
+  \'first_name\' => \'ton that\',
+  \'receiver_email\' => \'tonthathung.it@gmail.com\',
+  \'payer_id\' => \'MP63JP8WKFEQS\',
+  \'option_name1\' => \'Referencing Customer ID\',
+  \'invoice\' => \'520d9c969c8c9~117.3.168.206\',
+  \'option_name2\' => \'Customer IP Address\',
+  \'reattempt\' => \'1\',
+  \'item_number\' => \'4\',
+  \'subscr_date\' => \'20:30:10 Aug 15, 2013 PDT\',
+  \'custom\' => \'myjobodesk.com\',
+  \'charset\' => \'windows-1252\',
+  \'period1\' => \'1 D\',
+  \'mc_amount1\' => \'0.10\',
+  \'period3\' => \'1 M\',
+  \'mc_amount3\' => \'4.00\',
+  \'auth\' => \'ADRB7NIWuMHgv4aiaKWKSFLPbroPCpJIHXgRRR4EY5f0EvYAdu68O2d5VuTNZn.-mBjBR-GV8zLgvj-4LrGKxCA\',
+  \'form_charset\' => \'UTF-8\',
+)',
+    3 => 'Redirecting Customer to the Home Page (after asking Customer to check their email).',
+  ),
+  's2member_paypal_return_tra' => 'fnIyOlBOS2R3WG1YVHBlNDVHYWtJUjl1UlhjMXc0a0ZEOTJuOjNlNGEzYjdkZmQ2MjllMzI0NDdlYjg5YWQ2MTQ1ZGI1fIkbmMyBTCYmCapPxngxZf4Vf2weCeoez-FYuYh4AUYLm12m5WPXT5MTwWOqPOStZwpMVcrQ2mWyfD8bcXQ7kj2P-awme2XEhwVcJKYwV8QFsrW6NeHqAeZlSPvfRjcOZjU8iZnnQtEuPBOH18vCMwSeolE2A3PYQkfi30nacR9m6uoDp6WHpKZctqa2FWqg6UyNIRcbCbNyiudn0XLkV1g-SlMH1d-1XwGmLzfUTFb6SV9Ke_wBoMXE88Y1MxwHmj3wfr1gkPNPhSPfH8tSq2zvz438Pp7uvnxcoNQvJKGHSfZ7MhacXyQbT8LhZ8yWpRgZ6H-X6OIlh_h99JAwBi_rRHISGGM6rARrjMsVik-Z62Ah9IH04ltoThp5oLCdWQ',
+)
+
+LOG ENTRY: Fri Aug 16th, 2013 @ precisely 7:49 am UTC
+PHP v5.4.16 :: WordPress® v3.5.2 :: s2Member® v130617
+Memory 17.45 MB :: Real Memory 17.75 MB :: Peak Memory 17.51 MB :: Real Peak Memory 17.75 MB
+myjobodesk.com/bcd/?s2member_paypal_return=1&s2member_paypal_return_tra=fnIyOnB2SE1KN01HNkJaSW1OWjEza2Q2eDlqdmJHYTh3OUhaOmIzNjIxZWY5MmVjZDllZDJlNTdlMTIzZjM4MjRjNzUwfLhEuh8POJDcJhAbwW7EWi9Mtf96sTmmQLoMSsHYx0XUBNJDOuCjVr3cpG9yvPL4a6ygVBGqPXOscg6lvSPGoVDeEa6bfjUiZhjMtvIoPQlw%2doebQwAtYSUhM1GKQn3dyf6p30WPKekg259yt%2dXsWYBh7kLnAZuo72lmm6eoTQey3GgLxiVlXn0RfM%2dqm2PQYMG%5f0dEwxd3l3ft%5fswF8pDZ1wLDnyrhi9Q8gOBaSVS%2dBxDq1UTYpHkwkont%5fAt0VkMsAPcJLQpmp%5fIAhVnyCM29c9rl%5fhtz5fCz%2dBFT0epaWdWJPo7mDrQS4FFz2lTq6CMk7deAMKU86hjMscsSjF3oH1tVwFMxsliJCKUXtXMk4pPrcb%2d2uUH7dLoEHGVWbqQ
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 Safari/537.36
+array (
+  'subscr_gateway' => 'paypal',
+  's2member_log' => 
+  array (
+    0 => 'No Return-Data. Customer MUST wait for Email Confirmation.',
+    1 => 'Note. This can sometimes happen when/if you are offering an Initial/Trial Period. There are times when a Payment Gateway will NOT supply s2Member with any data immediately after checkout. When/if this happens, s2Member must process the transaction via IPN only (i.e. behind-the-scene), and the Customer must wait for Email Confirmation in these cases.',
+    2 => 'array (
+  \'s2member_paypal_return\' => \'1\',
+  \'s2member_paypal_return_tra\' => \'fnIyOnB2SE1KN01HNkJaSW1OWjEza2Q2eDlqdmJHYTh3OUhaOmIzNjIxZWY5MmVjZDllZDJlNTdlMTIzZjM4MjRjNzUwfLhEuh8POJDcJhAbwW7EWi9Mtf96sTmmQLoMSsHYx0XUBNJDOuCjVr3cpG9yvPL4a6ygVBGqPXOscg6lvSPGoVDeEa6bfjUiZhjMtvIoPQlw-oebQwAtYSUhM1GKQn3dyf6p30WPKekg259yt-XsWYBh7kLnAZuo72lmm6eoTQey3GgLxiVlXn0RfM-qm2PQYMG_0dEwxd3l3ft_swF8pDZ1wLDnyrhi9Q8gOBaSVS-BxDq1UTYpHkwkont_At0VkMsAPcJLQpmp_IAhVnyCM29c9rl_htz5fCz-BFT0epaWdWJPo7mDrQS4FFz2lTq6CMk7deAMKU86hjMscsSjF3oH1tVwFMxsliJCKUXtXMk4pPrcb-2uUH7dLoEHGVWbqQ\',
+  \'txn_type\' => \'subscr_signup\',
+  \'subscr_id\' => \'I-03BHDAWKT3K2\',
+  \'last_name\' => \'hung\',
+  \'option_selection1\' => \'myjobodesk.com\',
+  \'option_selection2\' => \'117.3.168.206\',
+  \'residence_country\' => \'US\',
+  \'mc_currency\' => \'USD\',
+  \'item_name\' => \'Level 6 Member Ship\',
+  \'amount1\' => \'0.10\',
+  \'business\' => \'tonthathung.it@gmail.com\',
+  \'amount3\' => \'6.00\',
+  \'recurring\' => \'1\',
+  \'payer_status\' => \'verified\',
+  \'payer_email\' => \'hung.hung1@gmail.com\',
+  \'first_name\' => \'ton that\',
+  \'receiver_email\' => \'tonthathung.it@gmail.com\',
+  \'payer_id\' => \'MP63JP8WKFEQS\',
+  \'option_name1\' => \'Originating Domain\',
+  \'invoice\' => \'520dd94cf086c~117.3.168.206\',
+  \'option_name2\' => \'Customer IP Address\',
+  \'reattempt\' => \'1\',
+  \'item_number\' => \'5\',
+  \'subscr_date\' => \'00:49:30 Aug 16, 2013 PDT\',
+  \'custom\' => \'myjobodesk.com\',
+  \'charset\' => \'windows-1252\',
+  \'period1\' => \'1 D\',
+  \'mc_amount1\' => \'0.10\',
+  \'period3\' => \'1 M\',
+  \'mc_amount3\' => \'6.00\',
+  \'auth\' => \'A-Qwbmip6kLtsg.hH8dn7NWnCGLMgXZBslXR3Qo5EaABVHgekkiJBSaWGO2k4iR-oMk7lSOAeHSPZMahMosxQng\',
+  \'form_charset\' => \'UTF-8\',
+)',
+    3 => 'Redirecting Customer to the Home Page (after asking Customer to check their email).',
+  ),
+  's2member_paypal_return_tra' => 'fnIyOnB2SE1KN01HNkJaSW1OWjEza2Q2eDlqdmJHYTh3OUhaOmIzNjIxZWY5MmVjZDllZDJlNTdlMTIzZjM4MjRjNzUwfLhEuh8POJDcJhAbwW7EWi9Mtf96sTmmQLoMSsHYx0XUBNJDOuCjVr3cpG9yvPL4a6ygVBGqPXOscg6lvSPGoVDeEa6bfjUiZhjMtvIoPQlw-oebQwAtYSUhM1GKQn3dyf6p30WPKekg259yt-XsWYBh7kLnAZuo72lmm6eoTQey3GgLxiVlXn0RfM-qm2PQYMG_0dEwxd3l3ft_swF8pDZ1wLDnyrhi9Q8gOBaSVS-BxDq1UTYpHkwkont_At0VkMsAPcJLQpmp_IAhVnyCM29c9rl_htz5fCz-BFT0epaWdWJPo7mDrQS4FFz2lTq6CMk7deAMKU86hjMscsSjF3oH1tVwFMxsliJCKUXtXMk4pPrcb-2uUH7dLoEHGVWbqQ',
+)
+
+LOG ENTRY: Fri Aug 16th, 2013 @ precisely 7:53 am UTC
+PHP v5.4.16 :: WordPress® v3.5.2 :: s2Member® v130617
+Memory 17.47 MB :: Real Memory 17.75 MB :: Peak Memory 17.53 MB :: Real Peak Memory 17.75 MB
+myjobodesk.com/bcd/?s2member_paypal_return=1&s2member_paypal_return_tra=fnIyOnpMVmFaWHdpbmNsYmdYUW0zeG5HWk5VSTd1cFVKNm9zOjk0MTU4ZTM4YjY4YWMxZGRhY2MwNzkxMGJhYjJiNGRmfExQPeR9gc8Jx2LP3Jw7gE0PbYhed%5fxbjfleDDtOYAMbQKPRwtSXzN7GuVXzj1WDafCDEo0Gq1ZoWTQmCQwhBveSH06HHsvWtIp%5fkwEdhaPpsPq4Zzjk2KMzH7FduqCra4IE0kcSxKGahgFyLT%2dkCwsywiQ9Nd9AMkX7opqW0RKt6nTSOL5v4uwDvDJKouQTNkoosfV2GFIqbdEm7r%2d7hOj5yzne%5f1NZmapjlpTmg38xSlw%2dWzMbYj7NG3NcOVuely0pPXNSN0o59Gw2hpfEjnsdI9bHTRNzXyTyMe2NcROBz%2dC4wcM2z8nDRttvv250%2dwaHHNNCqoJ%5fx7iaNd2HaUPVH%2dAeoMY8pCvmxz9PYK3j4N1E34owU5vlD2RLiyuq6A
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 Safari/537.36
+array (
+  'subscr_gateway' => 'paypal',
+  's2member_log' => 
+  array (
+    0 => 'No Return-Data. Customer MUST wait for Email Confirmation.',
+    1 => 'Note. This can sometimes happen when/if you are offering an Initial/Trial Period. There are times when a Payment Gateway will NOT supply s2Member with any data immediately after checkout. When/if this happens, s2Member must process the transaction via IPN only (i.e. behind-the-scene), and the Customer must wait for Email Confirmation in these cases.',
+    2 => 'array (
+  \'s2member_paypal_return\' => \'1\',
+  \'s2member_paypal_return_tra\' => \'fnIyOnpMVmFaWHdpbmNsYmdYUW0zeG5HWk5VSTd1cFVKNm9zOjk0MTU4ZTM4YjY4YWMxZGRhY2MwNzkxMGJhYjJiNGRmfExQPeR9gc8Jx2LP3Jw7gE0PbYhed_xbjfleDDtOYAMbQKPRwtSXzN7GuVXzj1WDafCDEo0Gq1ZoWTQmCQwhBveSH06HHsvWtIp_kwEdhaPpsPq4Zzjk2KMzH7FduqCra4IE0kcSxKGahgFyLT-kCwsywiQ9Nd9AMkX7opqW0RKt6nTSOL5v4uwDvDJKouQTNkoosfV2GFIqbdEm7r-7hOj5yzne_1NZmapjlpTmg38xSlw-WzMbYj7NG3NcOVuely0pPXNSN0o59Gw2hpfEjnsdI9bHTRNzXyTyMe2NcROBz-C4wcM2z8nDRttvv250-waHHNNCqoJ_x7iaNd2HaUPVH-AeoMY8pCvmxz9PYK3j4N1E34owU5vlD2RLiyuq6A\',
+  \'txn_type\' => \'subscr_signup\',
+  \'subscr_id\' => \'I-8ALNXNXV6WYU\',
+  \'last_name\' => \'hung\',
+  \'option_selection1\' => \'14\',
+  \'option_selection2\' => \'117.3.168.206\',
+  \'residence_country\' => \'US\',
+  \'mc_currency\' => \'USD\',
+  \'item_name\' => \'Level 6 Member Ship\',
+  \'amount1\' => \'0.10\',
+  \'business\' => \'tonthathung.it@gmail.com\',
+  \'amount3\' => \'6.00\',
+  \'recurring\' => \'1\',
+  \'payer_status\' => \'verified\',
+  \'payer_email\' => \'hung.hung1@gmail.com\',
+  \'first_name\' => \'ton that\',
+  \'receiver_email\' => \'tonthathung.it@gmail.com\',
+  \'payer_id\' => \'MP63JP8WKFEQS\',
+  \'option_name1\' => \'Referencing Customer ID\',
+  \'invoice\' => \'520dd9d07b38f~117.3.168.206\',
+  \'option_name2\' => \'Customer IP Address\',
+  \'reattempt\' => \'1\',
+  \'item_number\' => \'5\',
+  \'subscr_date\' => \'00:53:31 Aug 16, 2013 PDT\',
+  \'custom\' => \'myjobodesk.com\',
+  \'charset\' => \'windows-1252\',
+  \'period1\' => \'1 D\',
+  \'mc_amount1\' => \'0.10\',
+  \'period3\' => \'1 M\',
+  \'mc_amount3\' => \'6.00\',
+  \'auth\' => \'AxmKwnEkkoEJs1yFSp7uTMmfas7b-tuUokqbvAwQagK6w-CiLjRFd8aLLPt30m8.xYNjMIfEDoH.sTx6FCO8bYQ\',
+  \'form_charset\' => \'UTF-8\',
+)',
+    3 => 'Redirecting Customer to the Home Page (after asking Customer to check their email).',
+  ),
+  's2member_paypal_return_tra' => 'fnIyOnpMVmFaWHdpbmNsYmdYUW0zeG5HWk5VSTd1cFVKNm9zOjk0MTU4ZTM4YjY4YWMxZGRhY2MwNzkxMGJhYjJiNGRmfExQPeR9gc8Jx2LP3Jw7gE0PbYhed_xbjfleDDtOYAMbQKPRwtSXzN7GuVXzj1WDafCDEo0Gq1ZoWTQmCQwhBveSH06HHsvWtIp_kwEdhaPpsPq4Zzjk2KMzH7FduqCra4IE0kcSxKGahgFyLT-kCwsywiQ9Nd9AMkX7opqW0RKt6nTSOL5v4uwDvDJKouQTNkoosfV2GFIqbdEm7r-7hOj5yzne_1NZmapjlpTmg38xSlw-WzMbYj7NG3NcOVuely0pPXNSN0o59Gw2hpfEjnsdI9bHTRNzXyTyMe2NcROBz-C4wcM2z8nDRttvv250-waHHNNCqoJ_x7iaNd2HaUPVH-AeoMY8pCvmxz9PYK3j4N1E34owU5vlD2RLiyuq6A',
+)
+
